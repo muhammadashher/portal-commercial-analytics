@@ -1,0 +1,127 @@
+{
+  "rows_account_monthly": 19285,
+  "accounts_total": 1411,
+  "revenue_sep_2026": {
+    "Jobs": 789161.0,
+    "Property": 3191500.0
+  },
+  "yoy_growth_sep_2026": {
+    "Jobs": 0.1676,
+    "Property": 0.2924
+  },
+  "active_accounts_sep_2026": {
+    "Jobs": 418,
+    "Property": 470
+  },
+  "nrr_12m": {
+    "Jobs": 0.7799,
+    "Property": 0.8298
+  },
+  "grr_12m": {
+    "Jobs": 0.7165,
+    "Property": 0.7789
+  },
+  "churn_model_auc": 0.6482614636342255,
+  "churn_top20_capture": 0.39416058394160586,
+  "at_risk_accounts": 87,
+  "at_risk_monthly_revenue": 114392.57999999999,
+  "target_backtest": {
+    "legacy": {
+      "attainment_min": 0.4306653164891608,
+      "attainment_max": 1.4737321786011026,
+      "attainment_std": 0.3033157063266317,
+      "within_10pct": 0.3888888888888889,
+      "mape": 0.3337632682402481
+    },
+    "bottom_up": {
+      "attainment_min": 0.8618433740209231,
+      "attainment_max": 1.0410350990873596,
+      "attainment_std": 0.04755724378146741,
+      "within_10pct": 0.7222222222222222,
+      "mape": 0.08873706370557954
+    }
+  },
+  "q4_goal": {
+    "Jobs": 2535816.9320000005,
+    "Property": 10175000.0
+  },
+  "meeting_to_deal_top_quartile": {
+    "Jobs": 0.13545000000000001,
+    "Property": 0.11649999999999999
+  },
+  "meeting_to_deal_bottom_quartile": {
+    "Jobs": 0.0594,
+    "Property": 0.0516
+  },
+  "property_churn_discount_le10": 0.02375520231213873,
+  "property_churn_discount_ge15": 0.021134441087613292,
+  "discount_given_12m": 5605185.64,
+  "discount_given_12m_deep": 3833149.4,
+  "upsell_accounts": 11,
+  "upsell_uplift_monthly": 30357.47666666667,
+  "contribution_margin_12m": {
+    "Jobs": 0.5406953584341434,
+    "Property": 0.6139884656790393
+  },
+  "revenue_12m": {
+    "Jobs": 8862171.36,
+    "Property": 34299375.0
+  },
+  "leads_per_listing_q3": 3.808866382373845,
+  "pricing": [
+    {
+      "portal": "Our Portal",
+      "tier": "Entry",
+      "cost_per_lead_aed": 61.128,
+      "vs_our_portal": 0.0
+    },
+    {
+      "portal": "Competitor A",
+      "tier": "Entry",
+      "cost_per_lead_aed": 75.234,
+      "vs_our_portal": 0.231
+    },
+    {
+      "portal": "Competitor B",
+      "tier": "Entry",
+      "cost_per_lead_aed": 64.861,
+      "vs_our_portal": 0.061
+    },
+    {
+      "portal": "Our Portal",
+      "tier": "Mid",
+      "cost_per_lead_aed": 54.579,
+      "vs_our_portal": 0.0
+    },
+    {
+      "portal": "Competitor A",
+      "tier": "Mid",
+      "cost_per_lead_aed": 73.687,
+      "vs_our_portal": 0.35
+    },
+    {
+      "portal": "Competitor B",
+      "tier": "Mid",
+      "cost_per_lead_aed": 59.799,
+      "vs_our_portal": 0.096
+    },
+    {
+      "portal": "Our Portal",
+      "tier": "Top",
+      "cost_per_lead_aed": 43.663,
+      "vs_our_portal": 0.0
+    },
+    {
+      "portal": "Competitor A",
+      "tier": "Top",
+      "cost_per_lead_aed": 66.147,
+      "vs_our_portal": 0.515
+    },
+    {
+      "portal": "Competitor B",
+      "tier": "Top",
+      "cost_per_lead_aed": 48.462,
+      "vs_our_portal": 0.11
+    }
+  ]
+}

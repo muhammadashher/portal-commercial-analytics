@@ -1,0 +1,10 @@
+quarter,portal,tier,monthly_price_aed,listing_credits,lead_index,leads_per_month,cost_per_lead_aed,vs_our_portal
+2026Q3,Our Portal,Entry,3500.0,25,1.0,57.257,61.128,0.0
+2026Q3,Competitor A,Entry,3360.0,25,0.78,44.66,75.234,0.231
+2026Q3,Competitor B,Entry,4100.0,30,0.92,63.212,64.861,0.061
+2026Q3,Our Portal,Mid,7500.0,60,1.0,137.417,54.579,0.0
+2026Q3,Competitor A,Mid,7240.0,55,0.78,98.253,73.687,0.35
+2026Q3,Competitor B,Mid,8820.0,70,0.92,147.494,59.799,0.096
+2026Q3,Our Portal,Top,15000.0,150,1.0,343.542,43.663,0.0
+2026Q3,Competitor A,Top,14180.0,120,0.78,214.37,66.147,0.515
+2026Q3,Competitor B,Top,18380.0,180,0.92,379.27,48.462,0.11

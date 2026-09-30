@@ -1,0 +1,1412 @@
+account_id,vertical,rep_id,segment,area_or_sector,discount_pct,start_month,end_month,current_package
+AG00001,Property,PR08,Mid,Al Barsha,0.2,2024-09,,Standard
+AG00002,Property,PR01,Mid,Dubai Marina,0.05,2024-09,2026-06,Standard
+AG00003,Property,PR03,Small,Jumeirah Lake Towers,0.05,2024-09,2025-04,Basic
+AG00004,Property,PR06,Small,Dubai Marina,0.25,2024-09,,Standard
+AG00005,Property,PR05,Mid,Arabian Ranches,0.1,2024-09,,Standard
+AG00006,Property,PR02,Small,Arabian Ranches,0.1,2024-09,,Basic
+AG00007,Property,PR03,Mid,Deira,0.1,2024-09,,Standard
+AG00008,Property,PR08,Small,Jumeirah Lake Towers,0.05,2024-09,2024-12,Basic
+AG00009,Property,PR06,Small,Downtown Dubai,0.0,2024-09,2024-12,Basic
+AG00010,Property,PR08,Small,Jumeirah Village Circle,0.25,2024-09,,Basic
+AG00011,Property,PR09,Small,Dubai Marina,0.25,2024-09,,Basic
+AG00012,Property,PR07,Small,Business Bay,0.15,2024-09,2025-06,Basic
+AG00013,Property,PR10,Small,Deira,0.05,2024-09,2025-12,Basic
+AG00014,Property,PR05,Mid,Jumeirah Lake Towers,0.0,2024-09,2025-12,Standard
+AG00015,Property,PR04,Small,Dubai Marina,0.25,2024-09,2024-11,Basic
+AG00016,Property,PR06,Small,Arabian Ranches,0.05,2024-09,2025-06,Basic
+AG00017,Property,PR03,Small,Dubai Marina,0.2,2024-09,,Standard
+AG00018,Property,PR12,Small,Deira,0.2,2024-09,,Basic
+AG00019,Property,PR06,Mid,Dubai Marina,0.25,2024-09,,Standard
+AG00020,Property,PR03,Small,Deira,0.15,2024-09,2026-02,Basic
+AG00021,Property,PR06,Large,Al Barsha,0.0,2024-09,2025-09,Premium
+AG00022,Property,PR04,Mid,Downtown Dubai,0.15,2024-09,2026-05,Basic
+AG00023,Property,PR08,Mid,Downtown Dubai,0.2,2024-09,,Standard
+AG00024,Property,PR03,Small,Arabian Ranches,0.1,2024-09,,Basic
+AG00025,Property,PR12,Large,Business Bay,0.1,2024-09,,Premium
+AG00026,Property,PR02,Small,Downtown Dubai,0.2,2024-09,2025-03,Standard
+AG00027,Property,PR10,Mid,Palm Jumeirah,0.05,2024-09,2025-01,Basic
+AG00028,Property,PR10,Small,Business Bay,0.25,2024-09,,Standard
+AG00029,Property,PR07,Small,Jumeirah Village Circle,0.25,2024-09,2024-10,Basic
+AG00030,Property,PR04,Mid,Business Bay,0.05,2024-09,2025-09,Premium
+AG00031,Property,PR08,Mid,Downtown Dubai,0.05,2024-09,,Standard
+AG00032,Property,PR03,Small,Business Bay,0.0,2024-09,,Basic
+AG00033,Property,PR03,Small,Dubai Marina,0.1,2024-09,,Basic
+AG00034,Property,PR07,Mid,Deira,0.05,2024-09,2026-04,Standard
+AG00035,Property,PR04,Small,Dubai Hills Estate,0.15,2024-09,,Basic
+AG00036,Property,PR02,Small,Deira,0.05,2024-09,2025-04,Standard
+AG00037,Property,PR12,Mid,Arabian Ranches,0.15,2024-09,2024-10,Standard
+AG00038,Property,PR03,Small,Dubai Hills Estate,0.1,2024-09,,Standard
+AG00039,Property,PR09,Small,Business Bay,0.1,2024-09,,Standard
+AG00040,Property,PR06,Small,Jumeirah Village Circle,0.15,2024-09,,Basic
+AG00041,Property,PR12,Small,Arabian Ranches,0.1,2024-09,2025-03,Basic
+AG00042,Property,PR09,Small,Deira,0.1,2024-09,2026-06,Basic
+AG00043,Property,PR04,Mid,Jumeirah Lake Towers,0.2,2024-09,,Basic
+AG00044,Property,PR09,Large,Dubai Marina,0.25,2024-09,,Standard
+AG00045,Property,PR08,Mid,Al Barsha,0.1,2024-09,2026-01,Premium
+AG00046,Property,PR02,Small,Jumeirah Lake Towers,0.15,2024-09,,Basic
+AG00047,Property,PR07,Mid,Al Barsha,0.15,2024-09,,Standard
+AG00048,Property,PR03,Small,Downtown Dubai,0.1,2024-09,2025-04,Basic
+AG00049,Property,PR09,Mid,Jumeirah Village Circle,0.05,2024-09,,Standard
+AG00050,Property,PR06,Small,Downtown Dubai,0.1,2024-09,2025-07,Standard
+AG00051,Property,PR09,Large,Dubai Hills Estate,0.1,2024-09,2025-01,Premium
+AG00052,Property,PR12,Large,Al Barsha,0.2,2024-09,,Standard
+AG00053,Property,PR03,Mid,Dubai Hills Estate,0.1,2024-09,,Basic
+AG00054,Property,PR06,Small,Palm Jumeirah,0.25,2024-09,2025-10,Basic
+AG00055,Property,PR03,Mid,Arabian Ranches,0.2,2024-09,,Standard
+AG00056,Property,PR12,Mid,Jumeirah Lake Towers,0.25,2024-09,,Standard
+AG00057,Property,PR04,Mid,Downtown Dubai,0.25,2024-09,,Basic
+AG00058,Property,PR02,Small,Dubai Marina,0.2,2024-09,2025-03,Basic
+AG00059,Property,PR11,Mid,Dubai Marina,0.2,2024-09,,Premium
+AG00060,Property,PR11,Small,Dubai Marina,0.1,2024-09,2025-04,Basic
+AG00061,Property,PR09,Small,Deira,0.05,2024-09,2025-07,Standard
+AG00062,Property,PR09,Mid,Arabian Ranches,0.15,2024-09,,Basic
+AG00063,Property,PR11,Small,Al Barsha,0.05,2024-09,,Basic
+AG00064,Property,PR07,Mid,Al Barsha,0.05,2024-09,,Premium
+AG00065,Property,PR06,Mid,Dubai Hills Estate,0.25,2024-09,,Standard
+AG00066,Property,PR07,Small,Palm Jumeirah,0.05,2024-09,,Basic
+AG00067,Property,PR06,Mid,Palm Jumeirah,0.1,2024-09,,Standard
+AG00068,Property,PR04,Small,Dubai Hills Estate,0.15,2024-09,,Standard
+AG00069,Property,PR04,Small,Dubai Hills Estate,0.2,2024-09,,Standard
+AG00070,Property,PR06,Small,Al Barsha,0.15,2024-09,,Standard
+AG00071,Property,PR07,Mid,Al Barsha,0.15,2024-09,,Premium
+AG00072,Property,PR10,Mid,Jumeirah Village Circle,0.05,2024-09,,Standard
+AG00073,Property,PR11,Small,Dubai Marina,0.05,2024-09,2026-02,Basic
+AG00074,Property,PR09,Mid,Dubai Marina,0.1,2024-09,,Premium
+AG00075,Property,PR08,Small,Downtown Dubai,0.25,2024-09,,Standard
+AG00076,Property,PR06,Mid,Jumeirah Lake Towers,0.15,2024-09,,Standard
+AG00077,Property,PR04,Small,Dubai Hills Estate,0.25,2024-09,,Standard
+AG00078,Property,PR08,Large,Deira,0.15,2024-09,,Standard
+AG00079,Property,PR02,Small,Al Barsha,0.1,2024-09,,Basic
+AG00080,Property,PR12,Small,Dubai Marina,0.1,2024-09,,Basic
+AG00081,Property,PR07,Small,Dubai Marina,0.2,2024-09,,Standard
+AG00082,Property,PR09,Small,Al Barsha,0.15,2024-09,,Basic
+AG00083,Property,PR11,Mid,Palm Jumeirah,0.1,2024-09,,Premium
+AG00084,Property,PR08,Small,Deira,0.15,2024-09,2026-01,Basic
+AG00085,Property,PR07,Mid,Arabian Ranches,0.1,2024-09,,Standard
+AG00086,Property,PR01,Small,Arabian Ranches,0.15,2024-09,2025-03,Basic
+AG00087,Property,PR05,Mid,Al Barsha,0.15,2024-09,,Premium
+AG00088,Property,PR09,Mid,Arabian Ranches,0.2,2024-09,,Premium
+AG00089,Property,PR03,Small,Al Barsha,0.15,2024-09,2026-03,Basic
+AG00090,Property,PR12,Mid,Business Bay,0.05,2024-09,,Standard
+AG00091,Property,PR02,Small,Al Barsha,0.15,2024-09,2025-06,Standard
+AG00092,Property,PR07,Small,Al Barsha,0.2,2024-09,2024-11,Basic
+AG00093,Property,PR10,Small,Dubai Marina,0.05,2024-09,2025-11,Basic
+AG00094,Property,PR09,Mid,Al Barsha,0.2,2024-09,2025-02,Standard
+AG00095,Property,PR04,Mid,Jumeirah Lake Towers,0.15,2024-09,2025-06,Basic
+AG00096,Property,PR01,Mid,Palm Jumeirah,0.1,2024-09,,Standard
+AG00097,Property,PR06,Small,Deira,0.1,2024-09,2025-01,Basic
+AG00098,Property,PR11,Small,Downtown Dubai,0.2,2024-09,,Basic
+AG00099,Property,PR12,Small,Business Bay,0.15,2024-09,,Basic
+AG00100,Property,PR06,Small,Arabian Ranches,0.05,2024-09,,Basic
+AG00101,Property,PR04,Small,Dubai Marina,0.1,2024-09,2026-07,Basic
+AG00102,Property,PR12,Small,Al Barsha,0.25,2024-09,2026-02,Basic
+AG00103,Property,PR06,Small,Arabian Ranches,0.1,2024-09,,Standard
+AG00104,Property,PR06,Small,Business Bay,0.2,2024-09,2025-04,Basic
+AG00105,Property,PR08,Mid,Al Barsha,0.15,2024-09,2026-06,Premium
+AG00106,Property,PR09,Large,Deira,0.05,2024-09,,Premium
+AG00107,Property,PR02,Large,Jumeirah Lake Towers,0.15,2024-09,2025-07,Premium
+AG00108,Property,PR12,Small,Downtown Dubai,0.0,2024-09,2026-04,Basic
+AG00109,Property,PR07,Small,Jumeirah Village Circle,0.1,2024-09,,Basic
+AG00110,Property,PR09,Small,Business Bay,0.1,2024-09,2025-08,Basic
+AG00111,Property,PR03,Small,Deira,0.1,2024-09,2026-06,Basic
+AG00112,Property,PR07,Mid,Al Barsha,0.1,2024-09,2026-09,Standard
+AG00113,Property,PR07,Small,Jumeirah Lake Towers,0.25,2024-09,,Basic
+AG00114,Property,PR07,Small,Al Barsha,0.05,2024-09,,Basic
+AG00115,Property,PR01,Small,Downtown Dubai,0.2,2024-09,,Basic
+AG00116,Property,PR08,Mid,Dubai Hills Estate,0.25,2024-09,,Standard
+AG00117,Property,PR03,Mid,Al Barsha,0.25,2024-09,,Standard
+AG00118,Property,PR08,Small,Arabian Ranches,0.1,2024-09,2025-04,Standard
+AG00119,Property,PR08,Small,Business Bay,0.05,2024-09,,Basic
+AG00120,Property,PR06,Small,Dubai Marina,0.15,2024-09,,Premium
+AG00121,Property,PR06,Small,Deira,0.0,2024-09,2026-04,Basic
+AG00122,Property,PR03,Large,Dubai Hills Estate,0.0,2024-09,,Premium
+AG00123,Property,PR08,Mid,Downtown Dubai,0.15,2024-09,,Premium
+AG00124,Property,PR05,Small,Dubai Marina,0.15,2024-09,2026-05,Basic
+AG00125,Property,PR01,Small,Dubai Hills Estate,0.1,2024-09,,Standard
+AG00126,Property,PR08,Mid,Jumeirah Village Circle,0.15,2024-09,2025-05,Standard
+AG00127,Property,PR12,Small,Palm Jumeirah,0.2,2024-09,2026-02,Basic
+AG00128,Property,PR07,Mid,Dubai Marina,0.2,2024-09,,Standard
+AG00129,Property,PR12,Small,Downtown Dubai,0.25,2024-09,2024-12,Standard
+AG00130,Property,PR07,Mid,Al Barsha,0.15,2024-09,2026-05,Premium
+AG00131,Property,PR09,Small,Al Barsha,0.25,2024-09,2026-05,Basic
+AG00132,Property,PR10,Small,Dubai Marina,0.0,2024-09,2026-04,Premium
+AG00133,Property,PR06,Mid,Al Barsha,0.05,2024-09,,Premium
+AG00134,Property,PR08,Mid,Palm Jumeirah,0.15,2024-09,2024-11,Premium
+AG00135,Property,PR06,Small,Jumeirah Village Circle,0.15,2024-09,,Basic
+AG00136,Property,PR12,Small,Business Bay,0.2,2024-09,2025-03,Standard
+AG00137,Property,PR04,Small,Downtown Dubai,0.1,2024-09,2024-10,Basic
+AG00138,Property,PR07,Mid,Arabian Ranches,0.05,2024-09,2025-08,Standard
+AG00139,Property,PR06,Mid,Al Barsha,0.25,2024-09,,Premium
+AG00140,Property,PR12,Small,Dubai Marina,0.1,2024-09,2025-11,Basic
+AG00141,Property,PR11,Small,Jumeirah Lake Towers,0.05,2024-09,,Basic
+AG00142,Property,PR11,Mid,Dubai Hills Estate,0.1,2024-09,,Standard
+AG00143,Property,PR09,Small,Al Barsha,0.05,2024-09,2026-07,Standard
+AG00144,Property,PR02,Mid,Business Bay,0.15,2024-09,,Standard
+AG00145,Property,PR04,Mid,Al Barsha,0.1,2024-09,,Premium
+AG00146,Property,PR04,Small,Business Bay,0.25,2024-09,2025-12,Standard
+AG00147,Property,PR07,Small,Palm Jumeirah,0.15,2024-09,,Basic
+AG00148,Property,PR03,Small,Arabian Ranches,0.0,2024-09,,Standard
+AG00149,Property,PR04,Small,Business Bay,0.25,2024-09,2025-05,Basic
+AG00150,Property,PR08,Small,Palm Jumeirah,0.1,2024-09,2025-06,Basic
+AG00151,Property,PR10,Small,Al Barsha,0.25,2024-09,,Basic
+AG00152,Property,PR02,Mid,Jumeirah Village Circle,0.2,2024-09,,Standard
+AG00153,Property,PR04,Small,Arabian Ranches,0.0,2024-09,2025-02,Basic
+AG00154,Property,PR05,Small,Dubai Marina,0.05,2024-09,,Basic
+AG00155,Property,PR06,Small,Arabian Ranches,0.1,2024-09,2025-06,Standard
+AG00156,Property,PR08,Large,Palm Jumeirah,0.1,2024-09,,Premium
+AG00157,Property,PR11,Small,Dubai Marina,0.2,2024-09,2025-10,Premium
+AG00158,Property,PR07,Small,Jumeirah Lake Towers,0.1,2024-09,2024-12,Standard
+AG00159,Property,PR07,Mid,Dubai Hills Estate,0.25,2024-09,2025-11,Premium
+AG00160,Property,PR09,Small,Jumeirah Village Circle,0.05,2024-09,,Basic
+AG00161,Property,PR09,Mid,Jumeirah Lake Towers,0.1,2024-09,2025-06,Standard
+AG00162,Property,PR09,Small,Deira,0.05,2024-09,2024-12,Basic
+AG00163,Property,PR03,Mid,Business Bay,0.05,2024-09,,Premium
+AG00164,Property,PR09,Mid,Arabian Ranches,0.15,2024-09,,Premium
+AG00165,Property,PR12,Mid,Jumeirah Village Circle,0.1,2024-09,,Basic
+AG00166,Property,PR08,Large,Palm Jumeirah,0.1,2024-09,,Premium
+AG00167,Property,PR07,Small,Jumeirah Lake Towers,0.25,2024-09,2025-01,Basic
+AG00168,Property,PR11,Mid,Arabian Ranches,0.2,2024-09,,Premium
+AG00169,Property,PR07,Mid,Business Bay,0.1,2024-09,2025-01,Standard
+AG00170,Property,PR07,Mid,Business Bay,0.05,2024-09,,Premium
+AG00171,Property,PR06,Mid,Al Barsha,0.2,2024-09,,Basic
+AG00172,Property,PR06,Small,Arabian Ranches,0.1,2024-09,2025-07,Basic
+AG00173,Property,PR12,Small,Arabian Ranches,0.2,2024-09,,Basic
+AG00174,Property,PR11,Small,Jumeirah Lake Towers,0.05,2024-09,,Standard
+AG00175,Property,PR08,Mid,Dubai Hills Estate,0.25,2024-09,,Standard
+AG00176,Property,PR02,Large,Al Barsha,0.15,2024-09,,Premium
+AG00177,Property,PR02,Small,Jumeirah Lake Towers,0.25,2024-09,,Standard
+AG00178,Property,PR07,Mid,Jumeirah Village Circle,0.15,2024-09,,Premium
+AG00179,Property,PR03,Small,Deira,0.1,2024-09,2025-12,Basic
+AG00180,Property,PR02,Small,Dubai Marina,0.05,2024-09,2026-05,Standard
+AG00181,Property,PR10,Small,Downtown Dubai,0.2,2024-09,,Standard
+AG00182,Property,PR10,Small,Dubai Marina,0.1,2024-09,,Standard
+AG00183,Property,PR07,Small,Al Barsha,0.1,2024-09,2025-09,Basic
+AG00184,Property,PR09,Small,Downtown Dubai,0.05,2024-09,,Basic
+AG00185,Property,PR07,Small,Arabian Ranches,0.15,2024-09,2025-11,Basic
+AG00186,Property,PR11,Mid,Arabian Ranches,0.05,2024-09,2026-04,Basic
+AG00187,Property,PR06,Small,Al Barsha,0.2,2024-09,2025-11,Basic
+AG00188,Property,PR01,Mid,Dubai Marina,0.1,2024-09,,Standard
+AG00189,Property,PR09,Small,Deira,0.05,2024-09,2026-06,Basic
+AG00190,Property,PR06,Mid,Dubai Hills Estate,0.0,2024-09,,Basic
+AG00191,Property,PR12,Small,Jumeirah Lake Towers,0.1,2024-09,2026-01,Standard
+AG00192,Property,PR12,Small,Dubai Marina,0.05,2024-09,2025-05,Basic
+AG00193,Property,PR04,Small,Dubai Marina,0.1,2024-09,,Basic
+AG00194,Property,PR11,Small,Jumeirah Village Circle,0.1,2024-09,,Basic
+AG00195,Property,PR08,Mid,Business Bay,0.05,2024-09,,Premium
+AG00196,Property,PR03,Small,Jumeirah Lake Towers,0.2,2024-09,,Standard
+AG00197,Property,PR07,Small,Arabian Ranches,0.1,2024-09,2025-05,Basic
+AG00198,Property,PR08,Small,Deira,0.15,2024-09,2025-03,Standard
+AG00199,Property,PR07,Small,Dubai Hills Estate,0.05,2024-09,,Basic
+AG00200,Property,PR11,Small,Dubai Hills Estate,0.1,2024-09,,Basic
+AG00201,Property,PR12,Small,Arabian Ranches,0.1,2024-09,2025-11,Basic
+AG00202,Property,PR07,Small,Jumeirah Lake Towers,0.1,2024-09,2025-03,Basic
+AG00203,Property,PR02,Mid,Downtown Dubai,0.1,2024-09,,Standard
+AG00204,Property,PR09,Mid,Business Bay,0.15,2024-09,,Premium
+AG00205,Property,PR02,Small,Arabian Ranches,0.15,2024-09,2025-10,Standard
+AG00206,Property,PR02,Small,Jumeirah Lake Towers,0.2,2024-09,2026-05,Basic
+AG00207,Property,PR07,Small,Palm Jumeirah,0.1,2024-09,,Standard
+AG00208,Property,PR06,Small,Dubai Hills Estate,0.2,2024-09,2024-10,Basic
+AG00209,Property,PR07,Large,Arabian Ranches,0.05,2024-09,2025-01,Premium
+AG00210,Property,PR11,Small,Jumeirah Village Circle,0.1,2024-09,,Standard
+AG00211,Property,PR12,Small,Jumeirah Lake Towers,0.1,2024-09,,Basic
+AG00212,Property,PR10,Small,Deira,0.25,2024-09,,Basic
+AG00213,Property,PR07,Mid,Palm Jumeirah,0.2,2024-09,2025-08,Basic
+AG00214,Property,PR08,Small,Dubai Marina,0.1,2024-09,,Basic
+AG00215,Property,PR03,Small,Jumeirah Village Circle,0.1,2024-09,2025-05,Standard
+AG00216,Property,PR12,Mid,Dubai Marina,0.15,2024-09,,Premium
+AG00217,Property,PR07,Small,Dubai Marina,0.25,2024-09,,Standard
+AG00218,Property,PR09,Large,Jumeirah Village Circle,0.25,2024-09,,Standard
+AG00219,Property,PR03,Mid,Dubai Marina,0.1,2024-09,2026-09,Basic
+AG00220,Property,PR08,Small,Jumeirah Village Circle,0.25,2024-09,,Basic
+AG00221,Property,PR03,Large,Business Bay,0.2,2024-09,,Premium
+AG00222,Property,PR10,Mid,Arabian Ranches,0.05,2024-09,,Premium
+AG00223,Property,PR07,Mid,Dubai Hills Estate,0.2,2024-09,,Basic
+AG00224,Property,PR07,Small,Jumeirah Village Circle,0.05,2024-09,2026-04,Basic
+AG00225,Property,PR09,Large,Palm Jumeirah,0.0,2024-09,,Premium
+AG00226,Property,PR04,Small,Arabian Ranches,0.25,2024-09,,Basic
+AG00227,Property,PR04,Small,Dubai Marina,0.1,2024-09,,Basic
+AG00228,Property,PR12,Mid,Dubai Hills Estate,0.2,2024-09,,Premium
+AG00229,Property,PR11,Small,Arabian Ranches,0.05,2024-09,2025-02,Basic
+AG00230,Property,PR12,Mid,Jumeirah Village Circle,0.05,2024-09,2025-02,Standard
+AG00231,Property,PR09,Small,Jumeirah Lake Towers,0.2,2024-09,,Basic
+AG00232,Property,PR12,Small,Downtown Dubai,0.1,2024-09,2025-11,Basic
+AG00233,Property,PR07,Small,Arabian Ranches,0.15,2024-09,2026-07,Basic
+AG00234,Property,PR08,Mid,Business Bay,0.25,2024-09,2025-01,Basic
+AG00235,Property,PR12,Small,Palm Jumeirah,0.15,2024-09,,Standard
+AG00236,Property,PR07,Mid,Jumeirah Lake Towers,0.1,2024-09,,Standard
+AG00237,Property,PR09,Small,Arabian Ranches,0.2,2024-09,,Basic
+AG00238,Property,PR09,Small,Palm Jumeirah,0.05,2024-09,2025-10,Standard
+AG00239,Property,PR08,Mid,Al Barsha,0.05,2024-09,,Standard
+AG00240,Property,PR03,Small,Downtown Dubai,0.2,2024-09,2026-04,Basic
+AG00241,Property,PR09,Small,Downtown Dubai,0.05,2024-09,,Basic
+AG00242,Property,PR06,Small,Downtown Dubai,0.0,2024-09,,Basic
+AG00243,Property,PR09,Mid,Al Barsha,0.2,2024-09,2025-03,Standard
+AG00244,Property,PR06,Small,Downtown Dubai,0.05,2024-09,2026-05,Basic
+AG00245,Property,PR06,Small,Business Bay,0.05,2024-09,2025-06,Basic
+AG00246,Property,PR04,Large,Al Barsha,0.2,2024-09,2025-03,Premium
+AG00247,Property,PR12,Mid,Jumeirah Lake Towers,0.2,2024-09,,Premium
+AG00248,Property,PR02,Small,Dubai Marina,0.15,2024-09,,Basic
+AG00249,Property,PR08,Small,Deira,0.2,2024-09,2025-09,Basic
+AG00250,Property,PR12,Mid,Deira,0.1,2024-09,2024-10,Standard
+AG00251,Property,PR08,Small,Arabian Ranches,0.1,2024-09,2025-10,Basic
+AG00252,Property,PR03,Large,Dubai Marina,0.2,2024-09,,Premium
+AG00253,Property,PR03,Mid,Downtown Dubai,0.25,2024-09,,Standard
+AG00254,Property,PR09,Small,Deira,0.25,2024-09,2025-08,Basic
+AG00255,Property,PR07,Small,Palm Jumeirah,0.2,2024-09,2024-11,Standard
+AG00256,Property,PR11,Small,Business Bay,0.25,2024-09,2025-09,Basic
+AG00257,Property,PR04,Mid,Dubai Hills Estate,0.15,2024-09,,Basic
+AG00258,Property,PR06,Small,Downtown Dubai,0.1,2024-09,,Basic
+AG00259,Property,PR09,Large,Jumeirah Lake Towers,0.1,2024-09,,Premium
+AG00260,Property,PR04,Mid,Al Barsha,0.15,2024-09,2026-04,Basic
+AG00261,Property,PR03,Small,Palm Jumeirah,0.25,2024-09,,Standard
+AG00262,Property,PR05,Small,Business Bay,0.25,2024-09,2025-07,Basic
+AG00263,Property,PR04,Small,Deira,0.05,2024-09,2024-10,Basic
+AG00264,Property,PR09,Large,Business Bay,0.2,2024-09,,Premium
+AG00265,Property,PR02,Small,Deira,0.2,2024-09,2025-03,Basic
+AG00266,Property,PR09,Mid,Arabian Ranches,0.25,2024-09,,Standard
+AG00267,Property,PR09,Mid,Deira,0.05,2024-09,2025-04,Standard
+AG00268,Property,PR07,Small,Dubai Hills Estate,0.2,2024-09,2026-02,Basic
+AG00269,Property,PR04,Mid,Al Barsha,0.1,2024-09,,Premium
+AG00270,Property,PR12,Large,Al Barsha,0.05,2024-09,,Premium
+AG00271,Property,PR07,Small,Arabian Ranches,0.25,2024-09,2026-06,Basic
+AG00272,Property,PR09,Large,Jumeirah Village Circle,0.1,2024-09,,Premium
+AG00273,Property,PR06,Mid,Jumeirah Lake Towers,0.0,2024-09,2025-06,Premium
+AG00274,Property,PR09,Small,Dubai Hills Estate,0.1,2024-09,2025-01,Basic
+AG00275,Property,PR01,Large,Jumeirah Village Circle,0.2,2024-09,,Premium
+AG00276,Property,PR11,Mid,Al Barsha,0.15,2024-09,,Standard
+AG00277,Property,PR04,Small,Business Bay,0.2,2024-09,2024-12,Standard
+AG00278,Property,PR09,Small,Dubai Hills Estate,0.15,2024-09,,Basic
+AG00279,Property,PR11,Small,Deira,0.05,2024-09,2025-04,Basic
+AG00280,Property,PR12,Small,Arabian Ranches,0.05,2024-09,,Basic
+AG00281,Property,PR03,Large,Dubai Marina,0.0,2024-09,,Standard
+AG00282,Property,PR08,Mid,Al Barsha,0.2,2024-09,2026-03,Premium
+AG00283,Property,PR09,Small,Palm Jumeirah,0.05,2024-09,2025-10,Basic
+AG00284,Property,PR05,Small,Downtown Dubai,0.1,2024-09,2025-05,Standard
+AG00285,Property,PR11,Mid,Dubai Marina,0.05,2024-09,,Standard
+AG00286,Property,PR12,Small,Business Bay,0.1,2024-09,2026-06,Basic
+AG00287,Property,PR08,Small,Jumeirah Lake Towers,0.2,2024-09,,Basic
+AG00288,Property,PR02,Small,Palm Jumeirah,0.1,2024-09,,Basic
+AG00289,Property,PR09,Mid,Business Bay,0.2,2024-09,,Basic
+AG00290,Property,PR07,Large,Jumeirah Lake Towers,0.15,2024-09,2024-10,Premium
+AG00291,Property,PR09,Small,Dubai Marina,0.25,2024-09,2025-07,Basic
+AG00292,Property,PR07,Small,Arabian Ranches,0.1,2024-09,,Basic
+AG00293,Property,PR01,Mid,Palm Jumeirah,0.0,2024-09,,Standard
+AG00294,Property,PR03,Small,Arabian Ranches,0.05,2024-09,2025-11,Basic
+AG00295,Property,PR07,Small,Al Barsha,0.15,2024-09,,Standard
+AG00296,Property,PR11,Small,Arabian Ranches,0.05,2024-09,2025-08,Basic
+AG00297,Property,PR08,Large,Arabian Ranches,0.2,2024-09,2025-01,Premium
+AG00298,Property,PR12,Small,Business Bay,0.05,2024-09,,Standard
+AG00299,Property,PR12,Large,Arabian Ranches,0.05,2024-09,,Premium
+AG00300,Property,PR08,Small,Dubai Hills Estate,0.15,2024-09,,Basic
+EM00001,Jobs,JR06,SME,Real Estate,0.09,2024-09,2025-02,Pay-per-Post
+EM00002,Jobs,JR06,SME,Retail,0.09,2024-09,2026-04,Pay-per-Post
+EM00003,Jobs,JR06,SME,Logistics,0.15,2024-09,2025-08,Pay-per-Post
+EM00004,Jobs,JR02,Mid-Market,Retail,0.09,2024-09,,Pack-5
+EM00005,Jobs,JR04,SME,Real Estate,0.03,2024-09,,Pay-per-Post
+EM00006,Jobs,JR02,SME,Construction,0.12,2024-09,2025-09,Pay-per-Post
+EM00007,Jobs,JR06,Mid-Market,Finance,0.09,2024-09,,Pay-per-Post
+EM00008,Jobs,JR02,SME,Hospitality,0.09,2024-09,2025-02,Pay-per-Post
+EM00009,Jobs,JR06,SME,Logistics,0.0,2024-09,,Pack-5
+EM00010,Jobs,JR06,Mid-Market,Hospitality,0.15,2024-09,2026-05,Unlimited
+EM00011,Jobs,JR05,Mid-Market,Hospitality,0.09,2024-09,2026-05,Pack-5
+EM00012,Jobs,JR05,Mid-Market,Retail,0.09,2024-09,,Pay-per-Post
+EM00013,Jobs,JR04,SME,Healthcare,0.12,2024-09,,Pack-5
+EM00014,Jobs,JR02,SME,Retail,0.12,2024-09,2026-06,Pay-per-Post
+EM00015,Jobs,JR06,Mid-Market,Technology,0.09,2024-09,,Pay-per-Post
+EM00016,Jobs,JR02,Enterprise,Construction,0.03,2024-09,2025-07,Pack-5
+EM00017,Jobs,JR02,SME,Hospitality,0.06,2024-09,,Pay-per-Post
+EM00018,Jobs,JR06,Mid-Market,Healthcare,0.15,2024-09,2026-01,Pack-5
+EM00019,Jobs,JR01,SME,Logistics,0.0,2024-09,2024-10,Pay-per-Post
+EM00020,Jobs,JR01,SME,Real Estate,0.06,2024-09,2026-02,Pay-per-Post
+EM00021,Jobs,JR02,SME,Hospitality,0.12,2024-09,2025-03,Pay-per-Post
+EM00022,Jobs,JR01,SME,Retail,0.12,2024-09,,Pay-per-Post
+EM00023,Jobs,JR05,SME,Healthcare,0.03,2024-09,2025-03,Pay-per-Post
+EM00024,Jobs,JR01,Enterprise,Finance,0.09,2024-09,,Pay-per-Post
+EM00025,Jobs,JR02,SME,Finance,0.15,2024-09,,Pack-5
+EM00026,Jobs,JR03,SME,Healthcare,0.15,2024-09,2025-01,Pay-per-Post
+EM00027,Jobs,JR03,SME,Finance,0.15,2024-09,2025-03,Pay-per-Post
+EM00028,Jobs,JR01,Enterprise,Hospitality,0.06,2024-09,,Pack-5
+EM00029,Jobs,JR03,SME,Logistics,0.06,2024-09,2024-11,Pack-5
+EM00030,Jobs,JR06,SME,Technology,0.06,2024-09,2025-11,Pack-5
+EM00031,Jobs,JR06,SME,Retail,0.06,2024-09,,Pay-per-Post
+EM00032,Jobs,JR06,Mid-Market,Retail,0.06,2024-09,2026-07,Pay-per-Post
+EM00033,Jobs,JR06,SME,Technology,0.09,2024-09,2025-01,Pack-5
+EM00034,Jobs,JR06,SME,Real Estate,0.03,2024-09,2025-03,Pack-5
+EM00035,Jobs,JR06,Mid-Market,Retail,0.09,2024-09,,Unlimited
+EM00036,Jobs,JR06,SME,Logistics,0.09,2024-09,2026-04,Pay-per-Post
+EM00037,Jobs,JR02,SME,Healthcare,0.06,2024-09,,Pack-5
+EM00038,Jobs,JR01,SME,Retail,0.03,2024-09,2024-11,Pay-per-Post
+EM00039,Jobs,JR02,SME,Technology,0.03,2024-09,2025-08,Pay-per-Post
+EM00040,Jobs,JR02,Enterprise,Finance,0.09,2024-09,2026-03,Unlimited
+EM00041,Jobs,JR02,Mid-Market,Finance,0.15,2024-09,,Pack-5
+EM00042,Jobs,JR06,SME,Finance,0.03,2024-09,2026-06,Pack-5
+EM00043,Jobs,JR06,Mid-Market,Hospitality,0.12,2024-09,,Pay-per-Post
+EM00044,Jobs,JR05,SME,Finance,0.06,2024-09,,Pay-per-Post
+EM00045,Jobs,JR03,SME,Real Estate,0.15,2024-09,2024-11,Pay-per-Post
+EM00046,Jobs,JR06,SME,Technology,0.06,2024-09,2025-01,Pay-per-Post
+EM00047,Jobs,JR04,SME,Retail,0.06,2024-09,2026-03,Pay-per-Post
+EM00048,Jobs,JR02,Mid-Market,Logistics,0.15,2024-09,,Unlimited
+EM00049,Jobs,JR05,Mid-Market,Retail,0.03,2024-09,,Pack-5
+EM00050,Jobs,JR01,Mid-Market,Healthcare,0.09,2024-09,,Pay-per-Post
+EM00051,Jobs,JR01,SME,Healthcare,0.0,2024-09,2024-12,Pay-per-Post
+EM00052,Jobs,JR06,SME,Retail,0.12,2024-09,,Pay-per-Post
+EM00053,Jobs,JR02,Enterprise,Hospitality,0.15,2024-09,2024-11,Unlimited
+EM00054,Jobs,JR06,SME,Hospitality,0.15,2024-09,,Pack-5
+EM00055,Jobs,JR02,SME,Technology,0.15,2024-09,2025-09,Pay-per-Post
+EM00056,Jobs,JR06,SME,Hospitality,0.06,2024-09,2025-06,Pay-per-Post
+EM00057,Jobs,JR01,Mid-Market,Logistics,0.0,2024-09,,Unlimited
+EM00058,Jobs,JR02,SME,Healthcare,0.06,2024-09,2025-01,Pay-per-Post
+EM00059,Jobs,JR02,SME,Retail,0.06,2024-09,2025-10,Pay-per-Post
+EM00060,Jobs,JR05,SME,Finance,0.15,2024-09,2024-11,Pay-per-Post
+EM00061,Jobs,JR06,SME,Finance,0.12,2024-09,2025-06,Pay-per-Post
+EM00062,Jobs,JR03,SME,Hospitality,0.12,2024-09,2026-09,Pay-per-Post
+EM00063,Jobs,JR06,SME,Finance,0.12,2024-09,2025-01,Pay-per-Post
+EM00064,Jobs,JR06,SME,Hospitality,0.15,2024-09,2026-04,Pay-per-Post
+EM00065,Jobs,JR03,SME,Retail,0.06,2024-09,2025-10,Pack-5
+EM00066,Jobs,JR06,SME,Finance,0.15,2024-09,2025-08,Pay-per-Post
+EM00067,Jobs,JR05,SME,Real Estate,0.09,2024-09,2024-10,Pay-per-Post
+EM00068,Jobs,JR01,Enterprise,Construction,0.06,2024-09,2026-03,Unlimited
+EM00069,Jobs,JR03,SME,Real Estate,0.09,2024-09,2024-11,Pay-per-Post
+EM00070,Jobs,JR06,SME,Hospitality,0.06,2024-09,2024-10,Pay-per-Post
+EM00071,Jobs,JR02,SME,Finance,0.0,2024-09,2025-07,Pack-5
+EM00072,Jobs,JR03,SME,Hospitality,0.06,2024-09,,Unlimited
+EM00073,Jobs,JR05,SME,Technology,0.12,2024-09,,Pay-per-Post
+EM00074,Jobs,JR03,Mid-Market,Construction,0.09,2024-09,,Pack-5
+EM00075,Jobs,JR02,Mid-Market,Hospitality,0.12,2024-09,,Pack-5
+EM00076,Jobs,JR06,SME,Finance,0.0,2024-09,2025-09,Pay-per-Post
+EM00077,Jobs,JR02,SME,Healthcare,0.09,2024-09,,Pack-5
+EM00078,Jobs,JR06,Mid-Market,Retail,0.09,2024-09,2024-12,Pay-per-Post
+EM00079,Jobs,JR06,SME,Construction,0.06,2024-09,,Pay-per-Post
+EM00080,Jobs,JR03,SME,Real Estate,0.06,2024-09,2025-02,Pay-per-Post
+EM00081,Jobs,JR06,SME,Healthcare,0.15,2024-09,2026-08,Pay-per-Post
+EM00082,Jobs,JR02,SME,Hospitality,0.15,2024-09,,Pack-5
+EM00083,Jobs,JR06,SME,Hospitality,0.06,2024-09,,Pack-5
+EM00084,Jobs,JR05,SME,Logistics,0.0,2024-09,2026-06,Pay-per-Post
+EM00085,Jobs,JR05,Mid-Market,Finance,0.12,2024-09,2024-12,Unlimited
+EM00086,Jobs,JR05,SME,Real Estate,0.09,2024-09,2024-10,Pack-5
+EM00087,Jobs,JR03,SME,Healthcare,0.06,2024-09,2025-12,Pay-per-Post
+EM00088,Jobs,JR01,SME,Logistics,0.12,2024-09,,Pack-5
+EM00089,Jobs,JR06,SME,Construction,0.09,2024-09,2026-02,Pay-per-Post
+EM00090,Jobs,JR06,SME,Construction,0.12,2024-09,2026-01,Pay-per-Post
+EM00091,Jobs,JR05,SME,Construction,0.15,2024-09,,Pack-5
+EM00092,Jobs,JR02,SME,Healthcare,0.03,2024-09,,Pay-per-Post
+EM00093,Jobs,JR05,Mid-Market,Healthcare,0.09,2024-09,,Pack-5
+EM00094,Jobs,JR05,SME,Healthcare,0.03,2024-09,,Pay-per-Post
+EM00095,Jobs,JR06,SME,Construction,0.03,2024-09,2026-05,Pay-per-Post
+EM00096,Jobs,JR06,SME,Healthcare,0.09,2024-09,2024-11,Pay-per-Post
+EM00097,Jobs,JR06,SME,Healthcare,0.03,2024-09,2026-02,Pay-per-Post
+EM00098,Jobs,JR02,SME,Logistics,0.03,2024-09,2025-02,Pay-per-Post
+EM00099,Jobs,JR06,Mid-Market,Technology,0.03,2024-09,,Pack-5
+EM00100,Jobs,JR06,SME,Technology,0.15,2024-09,,Pack-5
+EM00101,Jobs,JR05,Mid-Market,Retail,0.0,2024-09,,Pack-5
+EM00102,Jobs,JR06,SME,Finance,0.15,2024-09,2026-02,Pay-per-Post
+EM00103,Jobs,JR05,SME,Construction,0.0,2024-09,2024-11,Pay-per-Post
+EM00104,Jobs,JR02,SME,Finance,0.09,2024-09,2025-02,Pay-per-Post
+EM00105,Jobs,JR02,SME,Healthcare,0.15,2024-09,,Pay-per-Post
+EM00106,Jobs,JR06,Mid-Market,Logistics,0.09,2024-09,,Pack-5
+EM00107,Jobs,JR06,Enterprise,Hospitality,0.12,2024-09,,Unlimited
+EM00108,Jobs,JR01,SME,Healthcare,0.03,2024-09,,Pay-per-Post
+EM00109,Jobs,JR06,SME,Retail,0.09,2024-09,2026-05,Pack-5
+EM00110,Jobs,JR06,SME,Logistics,0.0,2024-09,2025-06,Pay-per-Post
+EM00111,Jobs,JR03,SME,Hospitality,0.12,2024-09,2025-04,Pay-per-Post
+EM00112,Jobs,JR05,SME,Technology,0.09,2024-09,2025-02,Pay-per-Post
+EM00113,Jobs,JR01,Mid-Market,Healthcare,0.06,2024-09,2025-06,Pack-5
+EM00114,Jobs,JR06,SME,Finance,0.0,2024-09,2025-02,Pack-5
+EM00115,Jobs,JR01,SME,Retail,0.03,2024-09,2025-04,Pay-per-Post
+EM00116,Jobs,JR03,Mid-Market,Technology,0.12,2024-09,2025-09,Unlimited
+EM00117,Jobs,JR06,SME,Hospitality,0.15,2024-09,2025-02,Pack-5
+EM00118,Jobs,JR06,Mid-Market,Technology,0.03,2024-09,2025-09,Pay-per-Post
+EM00119,Jobs,JR02,SME,Construction,0.12,2024-09,,Pack-5
+EM00120,Jobs,JR06,SME,Real Estate,0.15,2024-09,,Pay-per-Post
+EM00121,Jobs,JR06,Enterprise,Logistics,0.15,2024-09,,Pack-5
+EM00122,Jobs,JR03,SME,Healthcare,0.06,2024-09,2026-04,Pay-per-Post
+EM00123,Jobs,JR04,SME,Logistics,0.06,2024-09,2026-03,Pay-per-Post
+EM00124,Jobs,JR02,SME,Finance,0.12,2024-09,,Pack-5
+EM00125,Jobs,JR06,Mid-Market,Real Estate,0.12,2024-09,,Unlimited
+EM00126,Jobs,JR06,SME,Logistics,0.12,2024-09,,Pack-5
+EM00127,Jobs,JR06,SME,Technology,0.03,2024-09,,Pay-per-Post
+EM00128,Jobs,JR03,SME,Technology,0.12,2024-09,2026-09,Pay-per-Post
+EM00129,Jobs,JR01,SME,Healthcare,0.06,2024-09,2025-07,Pay-per-Post
+EM00130,Jobs,JR04,SME,Healthcare,0.12,2024-09,2025-02,Pay-per-Post
+EM00131,Jobs,JR02,Mid-Market,Finance,0.09,2024-09,,Pay-per-Post
+EM00132,Jobs,JR06,Mid-Market,Retail,0.09,2024-09,,Pay-per-Post
+EM00133,Jobs,JR02,Enterprise,Logistics,0.03,2024-09,,Unlimited
+EM00134,Jobs,JR01,Mid-Market,Technology,0.06,2024-09,2024-10,Pack-5
+EM00135,Jobs,JR06,SME,Construction,0.06,2024-09,,Pack-5
+EM00136,Jobs,JR06,SME,Logistics,0.03,2024-09,2026-09,Pay-per-Post
+EM00137,Jobs,JR02,Enterprise,Healthcare,0.09,2024-09,,Pay-per-Post
+EM00138,Jobs,JR06,SME,Real Estate,0.12,2024-09,2025-06,Pay-per-Post
+EM00139,Jobs,JR02,Mid-Market,Technology,0.06,2024-09,2026-06,Pack-5
+EM00140,Jobs,JR02,SME,Real Estate,0.09,2024-09,,Pay-per-Post
+EM00141,Jobs,JR05,Mid-Market,Hospitality,0.12,2024-09,2024-12,Pay-per-Post
+EM00142,Jobs,JR06,SME,Retail,0.0,2024-09,2026-05,Pay-per-Post
+EM00143,Jobs,JR06,SME,Finance,0.12,2024-09,,Pack-5
+EM00144,Jobs,JR06,SME,Construction,0.15,2024-09,2024-10,Pay-per-Post
+EM00145,Jobs,JR02,Enterprise,Hospitality,0.12,2024-09,,Unlimited
+EM00146,Jobs,JR06,Mid-Market,Retail,0.0,2024-09,,Unlimited
+EM00147,Jobs,JR02,SME,Construction,0.03,2024-09,2025-04,Pay-per-Post
+EM00148,Jobs,JR01,SME,Construction,0.09,2024-09,,Pay-per-Post
+EM00149,Jobs,JR05,SME,Logistics,0.0,2024-09,,Pay-per-Post
+EM00150,Jobs,JR06,SME,Finance,0.06,2024-09,2026-01,Pay-per-Post
+EM00151,Jobs,JR06,SME,Logistics,0.09,2024-09,2025-07,Pay-per-Post
+EM00152,Jobs,JR02,Mid-Market,Real Estate,0.03,2024-09,2026-09,Pay-per-Post
+EM00153,Jobs,JR06,SME,Construction,0.09,2024-09,2026-07,Pay-per-Post
+EM00154,Jobs,JR05,Enterprise,Technology,0.09,2024-09,,Unlimited
+EM00155,Jobs,JR06,Mid-Market,Logistics,0.03,2024-09,,Pack-5
+EM00156,Jobs,JR06,SME,Retail,0.12,2024-09,2026-04,Pay-per-Post
+EM00157,Jobs,JR06,SME,Construction,0.0,2024-09,2025-08,Pay-per-Post
+EM00158,Jobs,JR03,SME,Technology,0.09,2024-09,2026-05,Pay-per-Post
+EM00159,Jobs,JR01,SME,Finance,0.06,2024-09,2024-10,Pay-per-Post
+EM00160,Jobs,JR02,Enterprise,Finance,0.09,2024-09,,Unlimited
+EM00161,Jobs,JR03,SME,Healthcare,0.09,2024-09,2025-06,Pack-5
+EM00162,Jobs,JR03,Enterprise,Healthcare,0.12,2024-09,2025-09,Pay-per-Post
+EM00163,Jobs,JR01,SME,Retail,0.03,2024-09,2024-11,Pay-per-Post
+EM00164,Jobs,JR05,SME,Hospitality,0.06,2024-09,2025-08,Pay-per-Post
+EM00165,Jobs,JR05,SME,Retail,0.0,2024-09,2025-05,Pack-5
+EM00166,Jobs,JR02,SME,Logistics,0.15,2024-09,2024-11,Pay-per-Post
+EM00167,Jobs,JR06,SME,Retail,0.06,2024-09,,Pay-per-Post
+EM00168,Jobs,JR02,SME,Logistics,0.15,2024-09,2025-08,Pay-per-Post
+EM00169,Jobs,JR06,Mid-Market,Healthcare,0.09,2024-09,2025-01,Pay-per-Post
+EM00170,Jobs,JR03,SME,Retail,0.0,2024-09,,Pay-per-Post
+EM00171,Jobs,JR06,SME,Hospitality,0.0,2024-09,,Pay-per-Post
+EM00172,Jobs,JR06,SME,Healthcare,0.09,2024-09,2026-09,Pay-per-Post
+EM00173,Jobs,JR05,Mid-Market,Logistics,0.03,2024-09,2025-12,Pack-5
+EM00174,Jobs,JR02,Enterprise,Hospitality,0.12,2024-09,,Pack-5
+EM00175,Jobs,JR02,SME,Technology,0.15,2024-09,2025-06,Pack-5
+EM00176,Jobs,JR02,SME,Finance,0.09,2024-09,,Pack-5
+EM00177,Jobs,JR02,SME,Hospitality,0.12,2024-09,,Pack-5
+EM00178,Jobs,JR01,SME,Healthcare,0.03,2024-09,2025-06,Pay-per-Post
+EM00179,Jobs,JR05,SME,Retail,0.0,2024-09,,Pay-per-Post
+EM00180,Jobs,JR04,Mid-Market,Finance,0.09,2024-09,,Pack-5
+EM00181,Jobs,JR05,SME,Real Estate,0.0,2024-09,,Pay-per-Post
+EM00182,Jobs,JR01,SME,Healthcare,0.12,2024-09,2024-11,Pay-per-Post
+EM00183,Jobs,JR02,SME,Healthcare,0.12,2024-09,2026-06,Pay-per-Post
+EM00184,Jobs,JR06,Mid-Market,Hospitality,0.06,2024-09,,Pack-5
+EM00185,Jobs,JR01,SME,Finance,0.0,2024-09,2024-12,Pay-per-Post
+EM00186,Jobs,JR02,Mid-Market,Logistics,0.06,2024-09,,Pack-5
+EM00187,Jobs,JR06,SME,Hospitality,0.06,2024-09,,Pay-per-Post
+EM00188,Jobs,JR04,SME,Healthcare,0.03,2024-09,2025-08,Pay-per-Post
+EM00189,Jobs,JR05,Mid-Market,Technology,0.03,2024-09,2026-01,Pay-per-Post
+EM00190,Jobs,JR06,SME,Construction,0.03,2024-09,2025-01,Pay-per-Post
+EM00191,Jobs,JR02,Mid-Market,Logistics,0.12,2024-09,2024-12,Pack-5
+EM00192,Jobs,JR03,Mid-Market,Construction,0.15,2024-09,,Pack-5
+EM00193,Jobs,JR06,SME,Finance,0.09,2024-09,,Pay-per-Post
+EM00194,Jobs,JR02,SME,Real Estate,0.06,2024-09,,Pay-per-Post
+EM00195,Jobs,JR02,SME,Technology,0.12,2024-09,2026-04,Pay-per-Post
+EM00196,Jobs,JR01,Mid-Market,Logistics,0.12,2024-09,,Pack-5
+EM00197,Jobs,JR02,SME,Healthcare,0.06,2024-09,2024-10,Pay-per-Post
+EM00198,Jobs,JR06,Mid-Market,Finance,0.03,2024-09,,Pack-5
+EM00199,Jobs,JR05,Mid-Market,Logistics,0.12,2024-09,,Unlimited
+EM00200,Jobs,JR03,SME,Hospitality,0.06,2024-09,2026-03,Pay-per-Post
+EM00201,Jobs,JR06,Enterprise,Retail,0.09,2024-09,,Unlimited
+EM00202,Jobs,JR02,SME,Construction,0.06,2024-09,2026-09,Pack-5
+EM00203,Jobs,JR06,SME,Construction,0.03,2024-09,2026-08,Pay-per-Post
+EM00204,Jobs,JR02,SME,Real Estate,0.06,2024-09,2025-04,Pay-per-Post
+EM00205,Jobs,JR02,SME,Retail,0.12,2024-09,2024-12,Pay-per-Post
+EM00206,Jobs,JR03,SME,Logistics,0.12,2024-09,,Pay-per-Post
+EM00207,Jobs,JR06,Mid-Market,Hospitality,0.06,2024-09,2025-08,Pack-5
+EM00208,Jobs,JR06,Mid-Market,Hospitality,0.12,2024-09,,Unlimited
+EM00209,Jobs,JR06,SME,Retail,0.06,2024-09,2025-04,Pay-per-Post
+EM00210,Jobs,JR02,SME,Real Estate,0.15,2024-09,,Pay-per-Post
+EM00211,Jobs,JR06,SME,Logistics,0.09,2024-09,2026-05,Pack-5
+EM00212,Jobs,JR01,SME,Retail,0.15,2024-09,2025-03,Pay-per-Post
+EM00213,Jobs,JR06,Mid-Market,Logistics,0.15,2024-09,,Pack-5
+EM00214,Jobs,JR01,Enterprise,Healthcare,0.06,2024-09,2025-04,Pack-5
+EM00215,Jobs,JR01,Mid-Market,Hospitality,0.0,2024-09,2026-06,Unlimited
+EM00216,Jobs,JR02,SME,Hospitality,0.12,2024-09,,Pay-per-Post
+EM00217,Jobs,JR05,SME,Hospitality,0.12,2024-09,,Pack-5
+EM00218,Jobs,JR06,Enterprise,Construction,0.0,2024-09,,Unlimited
+EM00219,Jobs,JR01,SME,Hospitality,0.12,2024-09,2025-10,Pack-5
+EM00220,Jobs,JR02,SME,Construction,0.06,2024-09,,Pay-per-Post
+EM00221,Jobs,JR02,Mid-Market,Finance,0.03,2024-09,,Pack-5
+EM00222,Jobs,JR06,SME,Retail,0.09,2024-09,2026-09,Pack-5
+EM00223,Jobs,JR04,SME,Hospitality,0.15,2024-09,2025-03,Pay-per-Post
+EM00224,Jobs,JR02,Mid-Market,Real Estate,0.15,2024-09,2025-01,Pack-5
+EM00225,Jobs,JR01,SME,Healthcare,0.12,2024-09,2025-03,Pack-5
+EM00226,Jobs,JR06,SME,Healthcare,0.0,2024-09,2026-01,Pay-per-Post
+EM00227,Jobs,JR01,SME,Real Estate,0.0,2024-09,2025-08,Pay-per-Post
+EM00228,Jobs,JR01,SME,Technology,0.03,2024-09,2024-10,Pay-per-Post
+EM00229,Jobs,JR06,Enterprise,Retail,0.09,2024-09,,Unlimited
+EM00230,Jobs,JR06,SME,Finance,0.06,2024-09,2025-04,Pay-per-Post
+EM00231,Jobs,JR06,SME,Hospitality,0.03,2024-09,,Pay-per-Post
+EM00232,Jobs,JR05,SME,Technology,0.06,2024-09,2025-03,Pay-per-Post
+EM00233,Jobs,JR05,SME,Technology,0.12,2024-09,,Pay-per-Post
+EM00234,Jobs,JR04,Enterprise,Hospitality,0.03,2024-09,2025-03,Pack-5
+EM00235,Jobs,JR01,SME,Hospitality,0.15,2024-09,2026-09,Pay-per-Post
+EM00236,Jobs,JR05,SME,Healthcare,0.09,2024-09,2026-03,Pay-per-Post
+EM00237,Jobs,JR01,SME,Real Estate,0.09,2024-09,,Pay-per-Post
+EM00238,Jobs,JR05,SME,Finance,0.06,2024-09,,Pack-5
+EM00239,Jobs,JR06,SME,Real Estate,0.06,2024-09,2025-08,Pay-per-Post
+EM00240,Jobs,JR05,SME,Logistics,0.03,2024-09,,Pay-per-Post
+EM00241,Jobs,JR02,SME,Hospitality,0.12,2024-09,,Pay-per-Post
+EM00242,Jobs,JR06,SME,Technology,0.0,2024-09,2025-10,Pay-per-Post
+EM00243,Jobs,JR04,SME,Real Estate,0.09,2024-09,,Pay-per-Post
+EM00244,Jobs,JR02,SME,Real Estate,0.06,2024-09,2025-05,Pay-per-Post
+EM00245,Jobs,JR06,SME,Construction,0.15,2024-09,2025-04,Pay-per-Post
+EM00246,Jobs,JR06,SME,Retail,0.0,2024-09,2025-01,Pay-per-Post
+EM00247,Jobs,JR03,SME,Logistics,0.15,2024-09,,Pack-5
+EM00248,Jobs,JR02,SME,Construction,0.09,2024-09,2026-05,Pay-per-Post
+EM00249,Jobs,JR02,Enterprise,Construction,0.12,2024-09,2026-03,Pack-5
+EM00250,Jobs,JR01,Mid-Market,Hospitality,0.0,2024-09,2025-10,Pack-5
+EM00251,Jobs,JR05,Mid-Market,Logistics,0.06,2024-09,,Pack-5
+EM00252,Jobs,JR04,Mid-Market,Hospitality,0.06,2024-09,2024-10,Pay-per-Post
+EM00253,Jobs,JR02,SME,Retail,0.03,2024-09,,Unlimited
+EM00254,Jobs,JR06,Mid-Market,Real Estate,0.03,2024-09,2025-07,Pack-5
+EM00255,Jobs,JR01,Enterprise,Logistics,0.09,2024-09,,Unlimited
+EM00256,Jobs,JR06,SME,Retail,0.06,2024-09,2025-04,Pay-per-Post
+EM00257,Jobs,JR01,SME,Healthcare,0.0,2024-09,2025-06,Pay-per-Post
+EM00258,Jobs,JR06,Mid-Market,Real Estate,0.06,2024-09,2026-07,Pack-5
+EM00259,Jobs,JR06,SME,Healthcare,0.15,2024-09,,Pay-per-Post
+EM00260,Jobs,JR06,SME,Logistics,0.09,2024-09,,Pack-5
+EM00261,Jobs,JR01,Mid-Market,Real Estate,0.09,2024-09,2025-05,Pack-5
+EM00262,Jobs,JR02,SME,Logistics,0.09,2024-09,2025-05,Pay-per-Post
+EM00263,Jobs,JR05,Mid-Market,Technology,0.15,2024-09,,Unlimited
+EM00264,Jobs,JR03,Mid-Market,Construction,0.12,2024-09,,Pack-5
+EM00265,Jobs,JR02,SME,Technology,0.15,2024-09,2025-05,Pay-per-Post
+EM00266,Jobs,JR01,Mid-Market,Finance,0.06,2024-09,2025-04,Pack-5
+EM00267,Jobs,JR03,SME,Healthcare,0.12,2024-09,2025-04,Pay-per-Post
+EM00268,Jobs,JR04,Mid-Market,Finance,0.15,2024-09,2025-02,Pay-per-Post
+EM00269,Jobs,JR06,Mid-Market,Logistics,0.09,2024-09,,Unlimited
+EM00270,Jobs,JR05,SME,Finance,0.0,2024-09,2025-12,Pack-5
+EM00271,Jobs,JR04,SME,Technology,0.12,2024-09,2026-02,Pay-per-Post
+EM00272,Jobs,JR01,SME,Hospitality,0.09,2024-09,2025-01,Pay-per-Post
+EM00273,Jobs,JR02,SME,Healthcare,0.15,2024-09,,Pay-per-Post
+EM00274,Jobs,JR06,SME,Retail,0.09,2024-09,2024-10,Pay-per-Post
+EM00275,Jobs,JR01,Mid-Market,Finance,0.03,2024-09,2025-07,Pack-5
+EM00276,Jobs,JR02,SME,Finance,0.12,2024-09,,Pack-5
+EM00277,Jobs,JR06,Mid-Market,Healthcare,0.15,2024-09,,Pack-5
+EM00278,Jobs,JR06,Mid-Market,Technology,0.12,2024-09,2025-10,Pack-5
+EM00279,Jobs,JR02,SME,Technology,0.12,2024-09,2025-08,Pay-per-Post
+EM00280,Jobs,JR06,Mid-Market,Hospitality,0.06,2024-09,2026-07,Pack-5
+EM00281,Jobs,JR06,SME,Finance,0.12,2024-09,2024-10,Pay-per-Post
+EM00282,Jobs,JR06,Mid-Market,Real Estate,0.0,2024-09,,Pay-per-Post
+EM00283,Jobs,JR06,Enterprise,Logistics,0.06,2024-09,,Unlimited
+EM00284,Jobs,JR04,Enterprise,Retail,0.03,2024-09,2024-12,Pay-per-Post
+EM00285,Jobs,JR02,Mid-Market,Retail,0.09,2024-09,,Pack-5
+EM00286,Jobs,JR05,SME,Construction,0.03,2024-09,2024-11,Pay-per-Post
+EM00287,Jobs,JR05,SME,Real Estate,0.09,2024-09,2025-01,Pack-5
+EM00288,Jobs,JR06,SME,Construction,0.03,2024-09,,Pay-per-Post
+EM00289,Jobs,JR05,SME,Technology,0.12,2024-09,,Pay-per-Post
+EM00290,Jobs,JR06,SME,Healthcare,0.12,2024-09,,Pay-per-Post
+EM00291,Jobs,JR01,SME,Finance,0.03,2024-09,,Pay-per-Post
+EM00292,Jobs,JR02,SME,Retail,0.06,2024-09,2024-12,Pay-per-Post
+EM00293,Jobs,JR02,Mid-Market,Technology,0.06,2024-09,2024-11,Pay-per-Post
+EM00294,Jobs,JR06,SME,Construction,0.03,2024-09,2026-03,Pay-per-Post
+EM00295,Jobs,JR02,SME,Healthcare,0.06,2024-09,,Pay-per-Post
+EM00296,Jobs,JR06,SME,Logistics,0.06,2024-09,2024-12,Pay-per-Post
+EM00297,Jobs,JR06,SME,Retail,0.03,2024-09,2024-10,Pay-per-Post
+EM00298,Jobs,JR02,SME,Logistics,0.0,2024-09,,Pay-per-Post
+EM00299,Jobs,JR01,Mid-Market,Healthcare,0.03,2024-09,,Pack-5
+EM00300,Jobs,JR01,Mid-Market,Technology,0.09,2024-09,,Pack-5
+EM00301,Jobs,JR01,SME,Retail,0.06,2024-09,2025-05,Pay-per-Post
+EM00302,Jobs,JR06,Enterprise,Finance,0.15,2024-09,,Unlimited
+EM00303,Jobs,JR06,Enterprise,Finance,0.09,2024-09,2025-02,Unlimited
+EM00304,Jobs,JR06,Mid-Market,Technology,0.15,2024-09,,Pack-5
+EM00305,Jobs,JR06,Enterprise,Finance,0.09,2024-09,,Unlimited
+EM00306,Jobs,JR02,SME,Logistics,0.12,2024-09,2024-11,Pack-5
+EM00307,Jobs,JR02,Mid-Market,Retail,0.03,2024-09,2025-08,Pack-5
+EM00308,Jobs,JR02,SME,Logistics,0.03,2024-09,2024-12,Pay-per-Post
+EM00309,Jobs,JR03,SME,Finance,0.06,2024-09,,Pay-per-Post
+EM00310,Jobs,JR06,Enterprise,Retail,0.03,2024-09,,Pack-5
+EM00311,Jobs,JR01,SME,Finance,0.09,2024-09,,Pay-per-Post
+EM00312,Jobs,JR06,Mid-Market,Logistics,0.12,2024-09,,Unlimited
+EM00313,Jobs,JR06,Mid-Market,Hospitality,0.03,2024-09,,Unlimited
+EM00314,Jobs,JR06,SME,Retail,0.15,2024-09,2025-06,Pack-5
+EM00315,Jobs,JR02,SME,Construction,0.0,2024-09,2025-09,Pay-per-Post
+EM00316,Jobs,JR05,SME,Construction,0.06,2024-09,,Pack-5
+EM00317,Jobs,JR01,SME,Retail,0.0,2024-09,2025-04,Pay-per-Post
+EM00318,Jobs,JR06,Enterprise,Construction,0.09,2024-09,,Unlimited
+EM00319,Jobs,JR05,SME,Hospitality,0.06,2024-09,2025-04,Pay-per-Post
+EM00320,Jobs,JR06,Mid-Market,Finance,0.09,2024-09,,Pack-5
+EM00321,Jobs,JR06,SME,Healthcare,0.15,2024-09,2025-06,Pay-per-Post
+EM00322,Jobs,JR04,SME,Healthcare,0.03,2024-09,2025-01,Pay-per-Post
+EM00323,Jobs,JR06,Mid-Market,Hospitality,0.12,2024-09,,Pay-per-Post
+EM00324,Jobs,JR06,Enterprise,Healthcare,0.12,2024-09,,Unlimited
+EM00325,Jobs,JR02,SME,Real Estate,0.06,2024-09,2025-04,Pay-per-Post
+EM00326,Jobs,JR05,Mid-Market,Retail,0.09,2024-09,,Pack-5
+EM00327,Jobs,JR03,Mid-Market,Hospitality,0.15,2024-09,,Pack-5
+EM00328,Jobs,JR05,SME,Real Estate,0.06,2024-09,2025-02,Pay-per-Post
+EM00329,Jobs,JR01,Enterprise,Hospitality,0.0,2024-09,,Unlimited
+EM00330,Jobs,JR01,Mid-Market,Technology,0.09,2024-09,,Unlimited
+EM00331,Jobs,JR06,Enterprise,Hospitality,0.15,2024-09,,Unlimited
+EM00332,Jobs,JR02,SME,Construction,0.15,2024-09,2024-12,Pay-per-Post
+EM00333,Jobs,JR02,SME,Technology,0.03,2024-09,2024-11,Pay-per-Post
+EM00334,Jobs,JR06,SME,Healthcare,0.12,2024-09,,Pay-per-Post
+EM00335,Jobs,JR05,SME,Finance,0.12,2024-09,,Pay-per-Post
+EM00336,Jobs,JR03,SME,Real Estate,0.12,2024-09,,Pay-per-Post
+EM00337,Jobs,JR02,SME,Finance,0.06,2024-09,2024-12,Pack-5
+EM00338,Jobs,JR05,SME,Finance,0.06,2024-09,,Pack-5
+EM00339,Jobs,JR04,SME,Hospitality,0.06,2024-09,,Pay-per-Post
+EM00340,Jobs,JR04,SME,Hospitality,0.03,2024-09,2026-07,Pay-per-Post
+EM00341,Jobs,JR02,SME,Logistics,0.15,2024-09,2026-06,Pay-per-Post
+EM00342,Jobs,JR03,Enterprise,Logistics,0.03,2024-09,2025-05,Unlimited
+EM00343,Jobs,JR06,SME,Logistics,0.06,2024-09,2025-06,Pay-per-Post
+EM00344,Jobs,JR06,SME,Real Estate,0.09,2024-09,2025-02,Pay-per-Post
+EM00345,Jobs,JR03,Enterprise,Retail,0.09,2024-09,2026-05,Unlimited
+EM00346,Jobs,JR01,SME,Retail,0.06,2024-09,2025-03,Pay-per-Post
+EM00347,Jobs,JR01,SME,Technology,0.06,2024-09,,Pay-per-Post
+EM00348,Jobs,JR02,Enterprise,Technology,0.15,2024-09,,Unlimited
+EM00349,Jobs,JR01,SME,Real Estate,0.0,2024-09,2026-05,Pack-5
+EM00350,Jobs,JR02,Mid-Market,Retail,0.15,2024-09,2025-09,Pack-5
+EM00351,Jobs,JR05,SME,Retail,0.03,2024-09,,Pay-per-Post
+EM00352,Jobs,JR02,Enterprise,Retail,0.09,2024-09,,Pack-5
+EM00353,Jobs,JR02,SME,Technology,0.06,2024-09,2024-11,Pack-5
+EM00354,Jobs,JR02,Mid-Market,Logistics,0.12,2024-09,,Unlimited
+EM00355,Jobs,JR04,SME,Logistics,0.09,2024-09,2025-03,Pay-per-Post
+EM00356,Jobs,JR01,SME,Technology,0.06,2024-09,,Pack-5
+EM00357,Jobs,JR03,SME,Finance,0.09,2024-09,,Pack-5
+EM00358,Jobs,JR02,SME,Real Estate,0.15,2024-09,,Pack-5
+EM00359,Jobs,JR05,Mid-Market,Technology,0.03,2024-09,,Pack-5
+EM00360,Jobs,JR03,Enterprise,Finance,0.03,2024-09,,Unlimited
+EM00361,Jobs,JR01,SME,Finance,0.15,2024-09,2024-11,Pay-per-Post
+EM00362,Jobs,JR03,SME,Construction,0.0,2024-09,2025-02,Pay-per-Post
+EM00363,Jobs,JR06,SME,Healthcare,0.06,2024-09,2026-03,Pay-per-Post
+EM00364,Jobs,JR06,SME,Real Estate,0.09,2024-09,2024-11,Pack-5
+EM00365,Jobs,JR01,SME,Retail,0.12,2024-09,2025-11,Pack-5
+EM00366,Jobs,JR02,SME,Real Estate,0.12,2024-09,2025-07,Pay-per-Post
+EM00367,Jobs,JR02,SME,Construction,0.15,2024-09,2026-07,Pay-per-Post
+EM00368,Jobs,JR06,Mid-Market,Construction,0.06,2024-09,,Unlimited
+EM00369,Jobs,JR06,Mid-Market,Healthcare,0.09,2024-09,2024-10,Pay-per-Post
+EM00370,Jobs,JR02,Enterprise,Technology,0.15,2024-09,2026-01,Unlimited
+EM00371,Jobs,JR06,SME,Retail,0.12,2024-09,,Pay-per-Post
+EM00372,Jobs,JR06,SME,Construction,0.09,2024-09,2026-05,Pay-per-Post
+EM00373,Jobs,JR04,Mid-Market,Finance,0.06,2024-09,2025-11,Pack-5
+EM00374,Jobs,JR01,SME,Technology,0.0,2024-09,2026-07,Pay-per-Post
+EM00375,Jobs,JR03,SME,Technology,0.09,2024-09,,Pay-per-Post
+EM00376,Jobs,JR05,Mid-Market,Hospitality,0.06,2024-09,2025-09,Pay-per-Post
+EM00377,Jobs,JR05,Mid-Market,Real Estate,0.09,2024-09,2026-02,Pay-per-Post
+EM00378,Jobs,JR01,SME,Technology,0.15,2024-09,2025-02,Pay-per-Post
+EM00379,Jobs,JR06,Mid-Market,Real Estate,0.09,2024-09,2025-03,Pack-5
+EM00380,Jobs,JR06,Mid-Market,Logistics,0.12,2024-09,,Pay-per-Post
+EM00381,Jobs,JR06,SME,Finance,0.0,2024-09,2026-01,Pay-per-Post
+EM00382,Jobs,JR01,SME,Construction,0.03,2024-09,,Pack-5
+EM00383,Jobs,JR01,SME,Logistics,0.03,2024-09,2026-01,Pay-per-Post
+EM00384,Jobs,JR01,Mid-Market,Healthcare,0.03,2024-09,2025-07,Pack-5
+EM00385,Jobs,JR03,Mid-Market,Retail,0.09,2024-09,,Pack-5
+EM00386,Jobs,JR05,Mid-Market,Retail,0.15,2024-09,2025-11,Pay-per-Post
+EM00387,Jobs,JR02,SME,Hospitality,0.06,2024-09,2026-07,Pay-per-Post
+EM00388,Jobs,JR05,SME,Retail,0.15,2024-09,2024-10,Pay-per-Post
+EM00389,Jobs,JR06,SME,Finance,0.06,2024-09,,Pack-5
+EM00390,Jobs,JR06,Mid-Market,Finance,0.09,2024-09,2025-06,Unlimited
+EM00391,Jobs,JR02,SME,Finance,0.12,2024-09,,Pay-per-Post
+EM00392,Jobs,JR02,SME,Retail,0.03,2024-09,,Pack-5
+EM00393,Jobs,JR03,SME,Logistics,0.15,2024-09,,Pack-5
+EM00394,Jobs,JR06,SME,Construction,0.12,2024-09,,Pay-per-Post
+EM00395,Jobs,JR06,SME,Logistics,0.15,2024-09,2025-06,Pack-5
+EM00396,Jobs,JR01,Mid-Market,Technology,0.09,2024-09,2025-09,Pay-per-Post
+EM00397,Jobs,JR02,SME,Healthcare,0.03,2024-09,,Pack-5
+EM00398,Jobs,JR02,SME,Logistics,0.03,2024-09,2025-04,Pay-per-Post
+EM00399,Jobs,JR05,SME,Finance,0.09,2024-09,2024-10,Pay-per-Post
+EM00400,Jobs,JR06,Mid-Market,Technology,0.06,2024-09,,Unlimited
+AG00301,Property,PR01,Mid,Dubai Marina,0.1,2024-10,,Standard
+AG00302,Property,PR01,Mid,Dubai Hills Estate,0.2,2024-10,,Premium
+AG00303,Property,PR01,Small,Dubai Hills Estate,0.2,2024-10,,Basic
+AG00304,Property,PR02,Mid,Deira,0.05,2024-10,,Premium
+AG00305,Property,PR05,Mid,Palm Jumeirah,0.2,2024-10,,Standard
+AG00306,Property,PR05,Small,Deira,0.0,2024-10,2024-10,Basic
+AG00307,Property,PR05,Mid,Deira,0.1,2024-10,,Premium
+AG00308,Property,PR05,Small,Arabian Ranches,0.15,2024-10,,Basic
+AG00309,Property,PR06,Small,Al Barsha,0.0,2024-10,2026-04,Basic
+AG00310,Property,PR07,Small,Palm Jumeirah,0.0,2024-10,,Standard
+AG00311,Property,PR07,Small,Business Bay,0.25,2024-10,2025-11,Basic
+AG00312,Property,PR08,Small,Business Bay,0.15,2024-10,2024-10,Standard
+AG00313,Property,PR09,Small,Deira,0.2,2024-10,2026-08,Standard
+AG00314,Property,PR10,Small,Al Barsha,0.05,2024-10,,Premium
+AG00315,Property,PR10,Small,Al Barsha,0.1,2024-10,2025-08,Basic
+AG00316,Property,PR10,Small,Al Barsha,0.15,2024-10,2025-01,Basic
+AG00317,Property,PR11,Small,Dubai Hills Estate,0.05,2024-10,2026-03,Basic
+AG00318,Property,PR11,Small,Downtown Dubai,0.2,2024-10,2024-10,Standard
+EM00401,Jobs,JR01,Mid-Market,Construction,0.06,2024-10,2025-03,Pay-per-Post
+EM00402,Jobs,JR02,Enterprise,Logistics,0.12,2024-10,,Unlimited
+EM00403,Jobs,JR02,SME,Construction,0.0,2024-10,,Pay-per-Post
+EM00404,Jobs,JR02,SME,Retail,0.06,2024-10,2025-02,Pay-per-Post
+EM00405,Jobs,JR02,SME,Finance,0.12,2024-10,2025-02,Pay-per-Post
+EM00406,Jobs,JR03,SME,Retail,0.12,2024-10,2025-02,Pay-per-Post
+EM00407,Jobs,JR04,SME,Finance,0.12,2024-10,,Pay-per-Post
+EM00408,Jobs,JR04,Mid-Market,Finance,0.03,2024-10,2026-06,Pay-per-Post
+EM00409,Jobs,JR04,SME,Finance,0.0,2024-10,2024-10,Unlimited
+EM00410,Jobs,JR05,Mid-Market,Finance,0.06,2024-10,2025-10,Pay-per-Post
+EM00411,Jobs,JR05,SME,Hospitality,0.06,2024-10,2025-04,Pay-per-Post
+EM00412,Jobs,JR05,Mid-Market,Retail,0.09,2024-10,,Pack-5
+EM00413,Jobs,JR05,Mid-Market,Logistics,0.03,2024-10,,Pack-5
+EM00414,Jobs,JR05,SME,Hospitality,0.03,2024-10,2024-11,Pack-5
+EM00415,Jobs,JR06,SME,Hospitality,0.06,2024-10,2025-02,Pay-per-Post
+EM00416,Jobs,JR06,Mid-Market,Construction,0.12,2024-10,,Pack-5
+EM00417,Jobs,JR06,SME,Hospitality,0.15,2024-10,,Pay-per-Post
+EM00418,Jobs,JR06,SME,Hospitality,0.0,2024-10,,Pay-per-Post
+AG00319,Property,PR01,Mid,Deira,0.05,2024-11,2025-05,Basic
+AG00320,Property,PR01,Small,Business Bay,0.1,2024-11,2026-04,Basic
+AG00321,Property,PR01,Large,Jumeirah Lake Towers,0.15,2024-11,,Premium
+AG00322,Property,PR02,Mid,Downtown Dubai,0.2,2024-11,,Standard
+AG00323,Property,PR02,Small,Jumeirah Lake Towers,0.15,2024-11,,Basic
+AG00324,Property,PR05,Mid,Al Barsha,0.2,2024-11,,Basic
+AG00325,Property,PR05,Mid,Jumeirah Lake Towers,0.1,2024-11,,Basic
+AG00326,Property,PR06,Small,Dubai Marina,0.0,2024-11,,Standard
+AG00327,Property,PR09,Large,Al Barsha,0.2,2024-11,,Premium
+AG00328,Property,PR09,Mid,Arabian Ranches,0.1,2024-11,,Standard
+AG00329,Property,PR10,Small,Business Bay,0.1,2024-11,,Standard
+AG00330,Property,PR11,Small,Business Bay,0.1,2024-11,,Standard
+AG00331,Property,PR12,Small,Jumeirah Village Circle,0.1,2024-11,2025-02,Standard
+EM00419,Jobs,JR01,SME,Logistics,0.12,2024-11,,Pay-per-Post
+EM00420,Jobs,JR01,SME,Finance,0.09,2024-11,2025-07,Pay-per-Post
+EM00421,Jobs,JR02,SME,Logistics,0.03,2024-11,,Pack-5
+EM00422,Jobs,JR02,SME,Healthcare,0.12,2024-11,,Unlimited
+EM00423,Jobs,JR02,SME,Healthcare,0.15,2024-11,2026-09,Pay-per-Post
+EM00424,Jobs,JR03,SME,Healthcare,0.06,2024-11,,Pay-per-Post
+EM00425,Jobs,JR04,SME,Hospitality,0.15,2024-11,,Pack-5
+EM00426,Jobs,JR04,Enterprise,Hospitality,0.12,2024-11,,Unlimited
+EM00427,Jobs,JR04,SME,Real Estate,0.06,2024-11,2024-12,Pack-5
+EM00428,Jobs,JR05,SME,Real Estate,0.12,2024-11,2024-12,Pay-per-Post
+EM00429,Jobs,JR05,Mid-Market,Technology,0.09,2024-11,2025-03,Pack-5
+EM00430,Jobs,JR05,Mid-Market,Technology,0.03,2024-11,,Pack-5
+EM00431,Jobs,JR05,SME,Finance,0.12,2024-11,,Pay-per-Post
+EM00432,Jobs,JR05,SME,Hospitality,0.0,2024-11,,Pay-per-Post
+EM00433,Jobs,JR06,SME,Logistics,0.0,2024-11,,Pay-per-Post
+EM00434,Jobs,JR06,SME,Finance,0.12,2024-11,2025-01,Pack-5
+EM00435,Jobs,JR06,SME,Hospitality,0.03,2024-11,2025-10,Pay-per-Post
+AG00332,Property,PR01,Small,Al Barsha,0.05,2024-12,,Standard
+AG00333,Property,PR03,Small,Jumeirah Village Circle,0.0,2024-12,,Basic
+AG00334,Property,PR04,Mid,Arabian Ranches,0.0,2024-12,,Standard
+AG00335,Property,PR04,Small,Dubai Hills Estate,0.25,2024-12,2026-03,Basic
+AG00336,Property,PR05,Large,Deira,0.1,2024-12,,Premium
+AG00337,Property,PR06,Mid,Jumeirah Lake Towers,0.2,2024-12,2025-05,Premium
+AG00338,Property,PR07,Small,Deira,0.2,2024-12,,Basic
+AG00339,Property,PR07,Small,Downtown Dubai,0.15,2024-12,,Basic
+AG00340,Property,PR07,Mid,Deira,0.1,2024-12,,Standard
+AG00341,Property,PR07,Mid,Jumeirah Village Circle,0.05,2024-12,2026-06,Standard
+AG00342,Property,PR08,Mid,Deira,0.1,2024-12,,Standard
+AG00343,Property,PR08,Small,Business Bay,0.05,2024-12,,Basic
+AG00344,Property,PR08,Small,Dubai Hills Estate,0.1,2024-12,2024-12,Standard
+AG00345,Property,PR08,Large,Palm Jumeirah,0.1,2024-12,,Premium
+AG00346,Property,PR10,Mid,Al Barsha,0.0,2024-12,,Premium
+AG00347,Property,PR10,Mid,Dubai Marina,0.2,2024-12,,Standard
+AG00348,Property,PR10,Large,Dubai Hills Estate,0.15,2024-12,,Premium
+AG00349,Property,PR11,Small,Arabian Ranches,0.25,2024-12,,Basic
+AG00350,Property,PR11,Small,Al Barsha,0.05,2024-12,2025-11,Basic
+EM00436,Jobs,JR01,SME,Healthcare,0.0,2024-12,2025-06,Pay-per-Post
+EM00437,Jobs,JR01,SME,Healthcare,0.09,2024-12,,Pay-per-Post
+EM00438,Jobs,JR01,Mid-Market,Retail,0.09,2024-12,,Pack-5
+EM00439,Jobs,JR01,SME,Real Estate,0.12,2024-12,2024-12,Pay-per-Post
+EM00440,Jobs,JR02,Mid-Market,Healthcare,0.15,2024-12,2025-01,Pay-per-Post
+EM00441,Jobs,JR02,SME,Hospitality,0.15,2024-12,,Pay-per-Post
+EM00442,Jobs,JR05,SME,Logistics,0.03,2024-12,,Pay-per-Post
+EM00443,Jobs,JR05,SME,Real Estate,0.12,2024-12,,Pack-5
+EM00444,Jobs,JR05,Mid-Market,Hospitality,0.0,2024-12,,Unlimited
+EM00445,Jobs,JR06,Mid-Market,Construction,0.03,2024-12,,Unlimited
+EM00446,Jobs,JR06,SME,Logistics,0.03,2024-12,2026-06,Pay-per-Post
+EM00447,Jobs,JR06,Mid-Market,Retail,0.12,2024-12,,Unlimited
+AG00351,Property,PR02,Large,Dubai Marina,0.25,2025-01,,Standard
+AG00352,Property,PR03,Small,Palm Jumeirah,0.1,2025-01,2026-01,Standard
+AG00353,Property,PR04,Small,Downtown Dubai,0.2,2025-01,,Basic
+AG00354,Property,PR05,Mid,Dubai Marina,0.2,2025-01,,Basic
+AG00355,Property,PR05,Small,Al Barsha,0.1,2025-01,,Basic
+AG00356,Property,PR05,Small,Business Bay,0.25,2025-01,2026-07,Basic
+AG00357,Property,PR05,Small,Deira,0.15,2025-01,2025-06,Standard
+AG00358,Property,PR05,Large,Dubai Marina,0.2,2025-01,,Premium
+AG00359,Property,PR06,Small,Arabian Ranches,0.2,2025-01,,Basic
+AG00360,Property,PR06,Small,Jumeirah Village Circle,0.05,2025-01,,Basic
+AG00361,Property,PR07,Small,Al Barsha,0.25,2025-01,2026-04,Standard
+AG00362,Property,PR07,Small,Arabian Ranches,0.05,2025-01,,Basic
+AG00363,Property,PR07,Mid,Palm Jumeirah,0.25,2025-01,2025-07,Standard
+AG00364,Property,PR07,Small,Dubai Marina,0.05,2025-01,,Basic
+AG00365,Property,PR08,Mid,Downtown Dubai,0.1,2025-01,2025-03,Premium
+AG00366,Property,PR10,Mid,Jumeirah Lake Towers,0.0,2025-01,,Basic
+AG00367,Property,PR11,Small,Jumeirah Village Circle,0.05,2025-01,2025-04,Standard
+AG00368,Property,PR11,Mid,Dubai Marina,0.1,2025-01,2025-11,Premium
+EM00448,Jobs,JR02,SME,Logistics,0.03,2025-01,2026-03,Pack-5
+EM00449,Jobs,JR02,SME,Logistics,0.12,2025-01,2025-03,Pay-per-Post
+EM00450,Jobs,JR02,SME,Retail,0.0,2025-01,2025-10,Pay-per-Post
+EM00451,Jobs,JR02,SME,Real Estate,0.12,2025-01,,Pay-per-Post
+EM00452,Jobs,JR02,Enterprise,Retail,0.09,2025-01,,Pack-5
+EM00453,Jobs,JR04,Mid-Market,Finance,0.12,2025-01,,Pack-5
+EM00454,Jobs,JR04,SME,Retail,0.03,2025-01,2025-12,Pay-per-Post
+EM00455,Jobs,JR05,SME,Logistics,0.15,2025-01,2025-10,Pay-per-Post
+EM00456,Jobs,JR05,SME,Construction,0.09,2025-01,,Pack-5
+EM00457,Jobs,JR06,SME,Healthcare,0.03,2025-01,2025-07,Pay-per-Post
+EM00458,Jobs,JR06,Mid-Market,Technology,0.03,2025-01,2025-01,Pay-per-Post
+AG00369,Property,PR01,Mid,Dubai Hills Estate,0.25,2025-02,,Standard
+AG00370,Property,PR03,Mid,Jumeirah Lake Towers,0.0,2025-02,,Standard
+AG00371,Property,PR03,Mid,Palm Jumeirah,0.0,2025-02,,Standard
+AG00372,Property,PR03,Small,Deira,0.1,2025-02,,Basic
+AG00373,Property,PR06,Small,Arabian Ranches,0.1,2025-02,,Basic
+AG00374,Property,PR06,Mid,Deira,0.0,2025-02,,Premium
+AG00375,Property,PR10,Mid,Palm Jumeirah,0.15,2025-02,,Premium
+AG00376,Property,PR10,Large,Jumeirah Village Circle,0.15,2025-02,,Premium
+AG00377,Property,PR10,Small,Downtown Dubai,0.05,2025-02,2026-07,Basic
+AG00378,Property,PR11,Small,Jumeirah Village Circle,0.1,2025-02,2026-04,Standard
+AG00379,Property,PR11,Small,Jumeirah Lake Towers,0.2,2025-02,2025-07,Basic
+AG00380,Property,PR11,Small,Palm Jumeirah,0.1,2025-02,,Basic
+AG00381,Property,PR11,Small,Deira,0.25,2025-02,,Standard
+EM00459,Jobs,JR01,SME,Real Estate,0.06,2025-02,,Pay-per-Post
+EM00460,Jobs,JR01,SME,Real Estate,0.0,2025-02,,Pay-per-Post
+EM00461,Jobs,JR02,SME,Real Estate,0.03,2025-02,,Pay-per-Post
+EM00462,Jobs,JR02,Mid-Market,Finance,0.12,2025-02,,Pay-per-Post
+EM00463,Jobs,JR02,SME,Technology,0.06,2025-02,,Pack-5
+EM00464,Jobs,JR02,Mid-Market,Real Estate,0.09,2025-02,2026-03,Pay-per-Post
+EM00465,Jobs,JR04,SME,Real Estate,0.09,2025-02,2025-04,Pay-per-Post
+EM00466,Jobs,JR04,Enterprise,Finance,0.12,2025-02,,Unlimited
+EM00467,Jobs,JR05,SME,Hospitality,0.15,2025-02,,Pack-5
+EM00468,Jobs,JR06,SME,Healthcare,0.12,2025-02,,Pay-per-Post
+AG00382,Property,PR01,Mid,Jumeirah Village Circle,0.2,2025-03,,Standard
+AG00383,Property,PR03,Small,Palm Jumeirah,0.1,2025-03,,Basic
+AG00384,Property,PR05,Small,Palm Jumeirah,0.1,2025-03,,Standard
+AG00385,Property,PR05,Mid,Dubai Marina,0.25,2025-03,,Premium
+AG00386,Property,PR07,Mid,Dubai Hills Estate,0.25,2025-03,2026-04,Standard
+AG00387,Property,PR08,Mid,Jumeirah Village Circle,0.0,2025-03,,Premium
+AG00388,Property,PR09,Small,Dubai Hills Estate,0.25,2025-03,2026-02,Basic
+AG00389,Property,PR10,Small,Dubai Marina,0.25,2025-03,,Standard
+AG00390,Property,PR10,Small,Jumeirah Village Circle,0.1,2025-03,,Standard
+AG00391,Property,PR10,Small,Deira,0.15,2025-03,,Basic
+AG00392,Property,PR11,Mid,Dubai Hills Estate,0.15,2025-03,2025-11,Basic
+AG00393,Property,PR11,Small,Dubai Marina,0.15,2025-03,,Basic
+AG00394,Property,PR11,Small,Jumeirah Lake Towers,0.1,2025-03,,Standard
+AG00395,Property,PR11,Small,Business Bay,0.05,2025-03,,Standard
+AG00396,Property,PR11,Large,Dubai Hills Estate,0.15,2025-03,,Premium
+AG00397,Property,PR12,Small,Jumeirah Village Circle,0.1,2025-03,2026-05,Basic
+EM00469,Jobs,JR01,SME,Real Estate,0.15,2025-03,,Pay-per-Post
+EM00470,Jobs,JR03,SME,Finance,0.03,2025-03,,Pay-per-Post
+EM00471,Jobs,JR03,Enterprise,Hospitality,0.03,2025-03,,Unlimited
+EM00472,Jobs,JR04,Mid-Market,Logistics,0.03,2025-03,,Unlimited
+EM00473,Jobs,JR04,SME,Hospitality,0.0,2025-03,2025-07,Pay-per-Post
+EM00474,Jobs,JR05,SME,Technology,0.15,2025-03,2025-05,Pay-per-Post
+EM00475,Jobs,JR05,SME,Real Estate,0.03,2025-03,2026-03,Pay-per-Post
+EM00476,Jobs,JR05,SME,Finance,0.03,2025-03,2025-12,Pay-per-Post
+EM00477,Jobs,JR05,SME,Finance,0.15,2025-03,2025-06,Pack-5
+EM00478,Jobs,JR06,SME,Construction,0.06,2025-03,,Pay-per-Post
+EM00479,Jobs,JR06,SME,Healthcare,0.03,2025-03,,Pay-per-Post
+EM00480,Jobs,JR06,Enterprise,Healthcare,0.15,2025-03,,Unlimited
+AG00398,Property,PR01,Small,Downtown Dubai,0.15,2025-04,,Basic
+AG00399,Property,PR01,Small,Palm Jumeirah,0.1,2025-04,,Basic
+AG00400,Property,PR01,Small,Dubai Hills Estate,0.25,2025-04,2025-05,Basic
+AG00401,Property,PR02,Small,Dubai Hills Estate,0.1,2025-04,2025-12,Basic
+AG00402,Property,PR02,Small,Jumeirah Lake Towers,0.25,2025-04,,Basic
+AG00403,Property,PR03,Mid,Al Barsha,0.1,2025-04,2026-03,Premium
+AG00404,Property,PR04,Small,Jumeirah Village Circle,0.1,2025-04,,Standard
+AG00405,Property,PR05,Large,Deira,0.15,2025-04,,Premium
+AG00406,Property,PR06,Mid,Deira,0.15,2025-04,,Basic
+AG00407,Property,PR06,Small,Palm Jumeirah,0.1,2025-04,,Basic
+AG00408,Property,PR07,Small,Downtown Dubai,0.05,2025-04,2025-09,Basic
+AG00409,Property,PR07,Mid,Arabian Ranches,0.15,2025-04,,Standard
+AG00410,Property,PR09,Small,Al Barsha,0.0,2025-04,,Basic
+AG00411,Property,PR10,Small,Deira,0.15,2025-04,2026-09,Basic
+AG00412,Property,PR10,Mid,Deira,0.15,2025-04,,Premium
+AG00413,Property,PR11,Small,Downtown Dubai,0.15,2025-04,,Basic
+AG00414,Property,PR11,Small,Business Bay,0.25,2025-04,,Basic
+AG00415,Property,PR11,Mid,Arabian Ranches,0.1,2025-04,,Standard
+AG00416,Property,PR11,Small,Arabian Ranches,0.0,2025-04,,Basic
+AG00417,Property,PR11,Large,Downtown Dubai,0.15,2025-04,,Premium
+AG00418,Property,PR12,Small,Jumeirah Lake Towers,0.15,2025-04,,Standard
+AG00419,Property,PR12,Small,Jumeirah Lake Towers,0.05,2025-04,,Basic
+EM00481,Jobs,JR02,SME,Healthcare,0.12,2025-04,2025-06,Pay-per-Post
+EM00482,Jobs,JR02,Mid-Market,Healthcare,0.06,2025-04,2025-06,Pack-5
+EM00483,Jobs,JR02,Enterprise,Hospitality,0.06,2025-04,,Pack-5
+EM00484,Jobs,JR02,SME,Construction,0.15,2025-04,,Pay-per-Post
+EM00485,Jobs,JR02,SME,Technology,0.06,2025-04,2026-02,Pack-5
+EM00486,Jobs,JR03,SME,Logistics,0.0,2025-04,,Pay-per-Post
+EM00487,Jobs,JR04,SME,Technology,0.03,2025-04,,Pay-per-Post
+EM00488,Jobs,JR04,SME,Finance,0.15,2025-04,,Pay-per-Post
+EM00489,Jobs,JR04,SME,Construction,0.0,2025-04,2025-11,Pay-per-Post
+EM00490,Jobs,JR04,SME,Construction,0.09,2025-04,,Pay-per-Post
+EM00491,Jobs,JR05,Mid-Market,Retail,0.06,2025-04,2025-06,Pay-per-Post
+EM00492,Jobs,JR05,SME,Finance,0.12,2025-04,2026-06,Pay-per-Post
+EM00493,Jobs,JR05,Mid-Market,Logistics,0.03,2025-04,,Pack-5
+EM00494,Jobs,JR05,Mid-Market,Hospitality,0.03,2025-04,,Pay-per-Post
+EM00495,Jobs,JR05,SME,Healthcare,0.12,2025-04,,Pay-per-Post
+EM00496,Jobs,JR06,Mid-Market,Real Estate,0.03,2025-04,2026-04,Unlimited
+EM00497,Jobs,JR06,SME,Real Estate,0.06,2025-04,,Pay-per-Post
+AG00420,Property,PR02,Small,Palm Jumeirah,0.2,2025-05,,Basic
+AG00421,Property,PR02,Mid,Dubai Hills Estate,0.15,2025-05,,Standard
+AG00422,Property,PR02,Large,Dubai Marina,0.15,2025-05,,Premium
+AG00423,Property,PR04,Mid,Arabian Ranches,0.05,2025-05,,Premium
+AG00424,Property,PR05,Mid,Al Barsha,0.05,2025-05,,Basic
+AG00425,Property,PR07,Mid,Dubai Hills Estate,0.1,2025-05,,Standard
+AG00426,Property,PR08,Small,Dubai Hills Estate,0.25,2025-05,,Standard
+AG00427,Property,PR09,Mid,Deira,0.05,2025-05,,Premium
+AG00428,Property,PR09,Mid,Jumeirah Lake Towers,0.0,2025-05,,Premium
+AG00429,Property,PR10,Small,Downtown Dubai,0.1,2025-05,2025-10,Basic
+AG00430,Property,PR10,Mid,Jumeirah Village Circle,0.15,2025-05,,Basic
+EM00498,Jobs,JR01,SME,Healthcare,0.12,2025-05,2025-12,Pay-per-Post
+EM00499,Jobs,JR01,SME,Real Estate,0.09,2025-05,,Pay-per-Post
+EM00500,Jobs,JR01,SME,Real Estate,0.12,2025-05,,Pay-per-Post
+EM00501,Jobs,JR01,Mid-Market,Hospitality,0.09,2025-05,,Pack-5
+EM00502,Jobs,JR01,Mid-Market,Logistics,0.0,2025-05,,Unlimited
+EM00503,Jobs,JR02,Enterprise,Real Estate,0.12,2025-05,,Pack-5
+EM00504,Jobs,JR02,Enterprise,Healthcare,0.09,2025-05,,Pack-5
+EM00505,Jobs,JR03,SME,Healthcare,0.15,2025-05,,Pay-per-Post
+EM00506,Jobs,JR03,Mid-Market,Finance,0.15,2025-05,2026-05,Pack-5
+EM00507,Jobs,JR04,SME,Hospitality,0.09,2025-05,2026-02,Pay-per-Post
+EM00508,Jobs,JR04,Enterprise,Logistics,0.03,2025-05,,Unlimited
+EM00509,Jobs,JR04,SME,Technology,0.03,2025-05,,Pack-5
+EM00510,Jobs,JR05,Mid-Market,Hospitality,0.15,2025-05,2026-03,Pack-5
+EM00511,Jobs,JR05,Mid-Market,Hospitality,0.15,2025-05,,Unlimited
+EM00512,Jobs,JR05,SME,Logistics,0.03,2025-05,2025-12,Pay-per-Post
+EM00513,Jobs,JR05,Enterprise,Healthcare,0.03,2025-05,,Pack-5
+EM00514,Jobs,JR05,SME,Healthcare,0.03,2025-05,,Unlimited
+EM00515,Jobs,JR05,Mid-Market,Healthcare,0.03,2025-05,2026-02,Pay-per-Post
+EM00516,Jobs,JR05,SME,Finance,0.06,2025-05,,Pay-per-Post
+EM00517,Jobs,JR06,SME,Finance,0.09,2025-05,,Pay-per-Post
+AG00431,Property,PR03,Small,Business Bay,0.1,2025-06,2026-03,Basic
+AG00432,Property,PR04,Small,Dubai Marina,0.15,2025-06,,Standard
+AG00433,Property,PR04,Small,Deira,0.25,2025-06,,Standard
+AG00434,Property,PR04,Small,Arabian Ranches,0.2,2025-06,,Basic
+AG00435,Property,PR06,Small,Palm Jumeirah,0.15,2025-06,2026-05,Basic
+AG00436,Property,PR07,Small,Deira,0.2,2025-06,2025-12,Basic
+AG00437,Property,PR09,Large,Al Barsha,0.05,2025-06,2025-11,Premium
+AG00438,Property,PR10,Large,Palm Jumeirah,0.2,2025-06,,Premium
+AG00439,Property,PR10,Small,Deira,0.2,2025-06,2026-01,Standard
+AG00440,Property,PR11,Mid,Palm Jumeirah,0.05,2025-06,,Standard
+AG00441,Property,PR11,Mid,Downtown Dubai,0.05,2025-06,,Basic
+EM00518,Jobs,JR01,SME,Healthcare,0.12,2025-06,,Pack-5
+EM00519,Jobs,JR01,SME,Technology,0.03,2025-06,2026-01,Pay-per-Post
+EM00520,Jobs,JR01,Mid-Market,Retail,0.12,2025-06,2025-10,Pack-5
+EM00521,Jobs,JR01,SME,Finance,0.06,2025-06,2026-04,Pay-per-Post
+EM00522,Jobs,JR01,Mid-Market,Hospitality,0.03,2025-06,,Pay-per-Post
+EM00523,Jobs,JR02,Mid-Market,Technology,0.0,2025-06,,Pack-5
+EM00524,Jobs,JR02,SME,Logistics,0.12,2025-06,2026-07,Pay-per-Post
+EM00525,Jobs,JR02,SME,Finance,0.12,2025-06,,Pay-per-Post
+EM00526,Jobs,JR02,Mid-Market,Logistics,0.12,2025-06,,Pack-5
+EM00527,Jobs,JR03,SME,Real Estate,0.09,2025-06,,Pay-per-Post
+EM00528,Jobs,JR05,SME,Healthcare,0.0,2025-06,2025-12,Pay-per-Post
+EM00529,Jobs,JR05,SME,Hospitality,0.12,2025-06,,Pay-per-Post
+EM00530,Jobs,JR05,SME,Construction,0.0,2025-06,2025-08,Pay-per-Post
+EM00531,Jobs,JR06,SME,Healthcare,0.15,2025-06,2025-06,Pay-per-Post
+EM00532,Jobs,JR06,Mid-Market,Construction,0.12,2025-06,2026-01,Pack-5
+AG00442,Property,PR01,Small,Palm Jumeirah,0.05,2025-07,,Basic
+AG00443,Property,PR01,Mid,Dubai Marina,0.0,2025-07,,Premium
+AG00444,Property,PR02,Mid,Downtown Dubai,0.05,2025-07,,Premium
+AG00445,Property,PR04,Small,Al Barsha,0.15,2025-07,,Basic
+AG00446,Property,PR05,Small,Dubai Hills Estate,0.0,2025-07,,Standard
+AG00447,Property,PR05,Small,Arabian Ranches,0.05,2025-07,,Premium
+AG00448,Property,PR07,Small,Palm Jumeirah,0.15,2025-07,,Basic
+AG00449,Property,PR07,Small,Downtown Dubai,0.05,2025-07,2026-08,Basic
+AG00450,Property,PR08,Small,Arabian Ranches,0.05,2025-07,2026-05,Basic
+AG00451,Property,PR08,Small,Palm Jumeirah,0.1,2025-07,,Basic
+AG00452,Property,PR09,Small,Arabian Ranches,0.2,2025-07,2025-11,Standard
+AG00453,Property,PR12,Small,Palm Jumeirah,0.05,2025-07,,Basic
+EM00533,Jobs,JR03,Mid-Market,Hospitality,0.09,2025-07,,Pack-5
+EM00534,Jobs,JR03,Mid-Market,Real Estate,0.15,2025-07,,Unlimited
+EM00535,Jobs,JR04,SME,Finance,0.12,2025-07,2025-09,Pay-per-Post
+EM00536,Jobs,JR04,SME,Hospitality,0.03,2025-07,,Pay-per-Post
+EM00537,Jobs,JR05,Mid-Market,Real Estate,0.06,2025-07,2026-07,Pack-5
+AG00454,Property,PR02,Small,Palm Jumeirah,0.25,2025-08,,Basic
+AG00455,Property,PR03,Small,Arabian Ranches,0.1,2025-08,,Basic
+AG00456,Property,PR03,Mid,Business Bay,0.05,2025-08,,Premium
+AG00457,Property,PR04,Small,Business Bay,0.25,2025-08,,Basic
+AG00458,Property,PR05,Large,Jumeirah Village Circle,0.05,2025-08,,Premium
+AG00459,Property,PR05,Mid,Downtown Dubai,0.2,2025-08,,Premium
+AG00460,Property,PR10,Small,Palm Jumeirah,0.2,2025-08,,Basic
+AG00461,Property,PR11,Mid,Arabian Ranches,0.15,2025-08,2025-09,Standard
+AG00462,Property,PR11,Small,Deira,0.1,2025-08,,Standard
+EM00538,Jobs,JR01,SME,Construction,0.03,2025-08,,Pay-per-Post
+EM00539,Jobs,JR01,SME,Finance,0.12,2025-08,2025-09,Pay-per-Post
+EM00540,Jobs,JR01,Mid-Market,Real Estate,0.15,2025-08,,Pack-5
+EM00541,Jobs,JR01,SME,Hospitality,0.12,2025-08,2025-12,Pay-per-Post
+EM00542,Jobs,JR01,SME,Retail,0.0,2025-08,2026-07,Pay-per-Post
+EM00543,Jobs,JR02,Mid-Market,Healthcare,0.09,2025-08,,Pack-5
+EM00544,Jobs,JR02,SME,Finance,0.09,2025-08,,Pay-per-Post
+EM00545,Jobs,JR02,Mid-Market,Technology,0.09,2025-08,,Pack-5
+EM00546,Jobs,JR04,SME,Real Estate,0.09,2025-08,,Pay-per-Post
+EM00547,Jobs,JR04,SME,Logistics,0.0,2025-08,2025-09,Pack-5
+EM00548,Jobs,JR04,SME,Finance,0.15,2025-08,2026-05,Pay-per-Post
+EM00549,Jobs,JR04,Mid-Market,Finance,0.03,2025-08,2025-10,Pay-per-Post
+EM00550,Jobs,JR05,Enterprise,Real Estate,0.06,2025-08,,Unlimited
+EM00551,Jobs,JR05,SME,Construction,0.12,2025-08,,Pay-per-Post
+EM00552,Jobs,JR06,Mid-Market,Construction,0.12,2025-08,,Unlimited
+AG00463,Property,PR01,Small,Dubai Hills Estate,0.15,2025-09,,Standard
+AG00464,Property,PR03,Mid,Palm Jumeirah,0.25,2025-09,,Standard
+AG00465,Property,PR03,Small,Jumeirah Lake Towers,0.05,2025-09,2025-12,Basic
+AG00466,Property,PR04,Small,Business Bay,0.25,2025-09,2026-01,Basic
+AG00467,Property,PR05,Small,Arabian Ranches,0.25,2025-09,2026-09,Basic
+AG00468,Property,PR07,Mid,Arabian Ranches,0.05,2025-09,2026-07,Standard
+AG00469,Property,PR07,Mid,Arabian Ranches,0.15,2025-09,,Basic
+AG00470,Property,PR07,Large,Business Bay,0.15,2025-09,,Premium
+AG00471,Property,PR07,Small,Dubai Marina,0.05,2025-09,2026-06,Basic
+AG00472,Property,PR09,Mid,Dubai Hills Estate,0.25,2025-09,2026-01,Premium
+AG00473,Property,PR12,Large,Downtown Dubai,0.25,2025-09,2026-07,Premium
+EM00553,Jobs,JR01,SME,Hospitality,0.15,2025-09,,Pay-per-Post
+EM00554,Jobs,JR01,SME,Construction,0.06,2025-09,2026-03,Pay-per-Post
+EM00555,Jobs,JR02,SME,Hospitality,0.09,2025-09,,Pack-5
+EM00556,Jobs,JR02,SME,Construction,0.09,2025-09,,Pack-5
+EM00557,Jobs,JR02,SME,Construction,0.06,2025-09,,Pack-5
+EM00558,Jobs,JR02,SME,Logistics,0.03,2025-09,,Pay-per-Post
+EM00559,Jobs,JR02,SME,Healthcare,0.09,2025-09,,Pay-per-Post
+EM00560,Jobs,JR03,SME,Retail,0.15,2025-09,,Pack-5
+EM00561,Jobs,JR04,SME,Logistics,0.09,2025-09,2025-09,Pay-per-Post
+EM00562,Jobs,JR05,SME,Retail,0.09,2025-09,2026-04,Pay-per-Post
+EM00563,Jobs,JR05,SME,Hospitality,0.12,2025-09,2025-09,Pack-5
+EM00564,Jobs,JR05,SME,Technology,0.06,2025-09,2026-06,Pay-per-Post
+EM00565,Jobs,JR05,SME,Finance,0.06,2025-09,,Pay-per-Post
+EM00566,Jobs,JR05,SME,Real Estate,0.03,2025-09,,Pay-per-Post
+EM00567,Jobs,JR06,SME,Real Estate,0.15,2025-09,,Pay-per-Post
+EM00568,Jobs,JR06,Mid-Market,Healthcare,0.03,2025-09,,Unlimited
+EM00569,Jobs,JR06,SME,Finance,0.15,2025-09,,Pay-per-Post
+AG00474,Property,PR01,Mid,Palm Jumeirah,0.15,2025-10,,Standard
+AG00475,Property,PR01,Small,Jumeirah Village Circle,0.15,2025-10,,Basic
+AG00476,Property,PR01,Small,Palm Jumeirah,0.15,2025-10,,Basic
+AG00477,Property,PR02,Small,Jumeirah Village Circle,0.2,2025-10,,Standard
+AG00478,Property,PR02,Mid,Jumeirah Lake Towers,0.05,2025-10,,Standard
+AG00479,Property,PR02,Large,Business Bay,0.05,2025-10,,Premium
+AG00480,Property,PR02,Small,Jumeirah Lake Towers,0.25,2025-10,,Standard
+AG00481,Property,PR05,Small,Business Bay,0.1,2025-10,,Basic
+AG00482,Property,PR07,Mid,Dubai Marina,0.05,2025-10,,Premium
+AG00483,Property,PR09,Mid,Jumeirah Village Circle,0.05,2025-10,,Basic
+AG00484,Property,PR09,Large,Deira,0.15,2025-10,,Standard
+AG00485,Property,PR10,Small,Downtown Dubai,0.2,2025-10,,Basic
+AG00486,Property,PR10,Small,Arabian Ranches,0.05,2025-10,2025-10,Basic
+AG00487,Property,PR10,Small,Jumeirah Lake Towers,0.15,2025-10,,Basic
+AG00488,Property,PR11,Mid,Arabian Ranches,0.0,2025-10,2025-12,Standard
+AG00489,Property,PR11,Mid,Deira,0.25,2025-10,,Premium
+EM00570,Jobs,JR01,Mid-Market,Construction,0.03,2025-10,,Pack-5
+EM00571,Jobs,JR01,SME,Retail,0.06,2025-10,,Pay-per-Post
+EM00572,Jobs,JR02,Mid-Market,Construction,0.03,2025-10,2026-02,Pack-5
+EM00573,Jobs,JR02,SME,Logistics,0.12,2025-10,,Pack-5
+EM00574,Jobs,JR02,SME,Technology,0.06,2025-10,,Pack-5
+EM00575,Jobs,JR02,SME,Logistics,0.09,2025-10,,Unlimited
+EM00576,Jobs,JR04,SME,Finance,0.0,2025-10,2025-12,Pay-per-Post
+EM00577,Jobs,JR04,Mid-Market,Real Estate,0.15,2025-10,,Pack-5
+EM00578,Jobs,JR04,SME,Real Estate,0.03,2025-10,2026-01,Pack-5
+EM00579,Jobs,JR04,SME,Real Estate,0.0,2025-10,2026-09,Pay-per-Post
+EM00580,Jobs,JR04,SME,Real Estate,0.06,2025-10,2025-11,Pay-per-Post
+EM00581,Jobs,JR04,SME,Technology,0.15,2025-10,,Pack-5
+EM00582,Jobs,JR05,Enterprise,Hospitality,0.03,2025-10,2026-09,Unlimited
+EM00583,Jobs,JR05,Mid-Market,Finance,0.03,2025-10,,Pack-5
+EM00584,Jobs,JR06,SME,Hospitality,0.09,2025-10,,Pay-per-Post
+EM00585,Jobs,JR06,Mid-Market,Real Estate,0.09,2025-10,,Unlimited
+EM00586,Jobs,JR06,Mid-Market,Retail,0.06,2025-10,2025-12,Pack-5
+EM00587,Jobs,JR06,SME,Retail,0.15,2025-10,,Pay-per-Post
+AG00490,Property,PR01,Small,Jumeirah Village Circle,0.05,2025-11,,Basic
+AG00491,Property,PR01,Small,Jumeirah Lake Towers,0.2,2025-11,,Standard
+AG00492,Property,PR01,Small,Dubai Marina,0.25,2025-11,,Basic
+AG00493,Property,PR02,Small,Deira,0.2,2025-11,,Basic
+AG00494,Property,PR02,Small,Jumeirah Lake Towers,0.25,2025-11,2026-02,Basic
+AG00495,Property,PR02,Mid,Arabian Ranches,0.2,2025-11,,Standard
+AG00496,Property,PR02,Small,Dubai Marina,0.0,2025-11,2026-05,Standard
+AG00497,Property,PR02,Small,Jumeirah Village Circle,0.1,2025-11,,Basic
+AG00498,Property,PR03,Small,Al Barsha,0.15,2025-11,,Basic
+AG00499,Property,PR04,Mid,Al Barsha,0.15,2025-11,,Standard
+AG00500,Property,PR04,Small,Business Bay,0.05,2025-11,,Basic
+AG00501,Property,PR05,Small,Al Barsha,0.15,2025-11,,Standard
+AG00502,Property,PR05,Mid,Arabian Ranches,0.1,2025-11,,Standard
+AG00503,Property,PR05,Mid,Arabian Ranches,0.2,2025-11,2026-04,Standard
+AG00504,Property,PR05,Mid,Jumeirah Village Circle,0.2,2025-11,,Premium
+AG00505,Property,PR06,Small,Arabian Ranches,0.05,2025-11,,Basic
+AG00506,Property,PR06,Small,Palm Jumeirah,0.2,2025-11,,Basic
+AG00507,Property,PR07,Small,Deira,0.1,2025-11,,Basic
+AG00508,Property,PR07,Large,Business Bay,0.2,2025-11,,Premium
+AG00509,Property,PR07,Small,Palm Jumeirah,0.1,2025-11,,Basic
+AG00510,Property,PR10,Small,Arabian Ranches,0.0,2025-11,2026-02,Basic
+AG00511,Property,PR10,Mid,Jumeirah Village Circle,0.15,2025-11,,Basic
+AG00512,Property,PR11,Small,Downtown Dubai,0.1,2025-11,,Basic
+AG00513,Property,PR11,Small,Dubai Marina,0.0,2025-11,,Basic
+EM00588,Jobs,JR01,Enterprise,Construction,0.09,2025-11,,Unlimited
+EM00589,Jobs,JR01,Mid-Market,Hospitality,0.0,2025-11,,Pack-5
+EM00590,Jobs,JR01,SME,Technology,0.03,2025-11,,Pay-per-Post
+EM00591,Jobs,JR01,Enterprise,Finance,0.06,2025-11,,Unlimited
+EM00592,Jobs,JR02,SME,Construction,0.06,2025-11,2026-09,Pay-per-Post
+EM00593,Jobs,JR02,SME,Construction,0.03,2025-11,,Pay-per-Post
+EM00594,Jobs,JR02,SME,Hospitality,0.06,2025-11,,Pack-5
+EM00595,Jobs,JR02,SME,Healthcare,0.12,2025-11,,Pack-5
+EM00596,Jobs,JR03,SME,Construction,0.0,2025-11,,Pay-per-Post
+EM00597,Jobs,JR04,Mid-Market,Real Estate,0.12,2025-11,2026-05,Pay-per-Post
+EM00598,Jobs,JR04,Mid-Market,Hospitality,0.03,2025-11,,Pack-5
+EM00599,Jobs,JR04,Mid-Market,Technology,0.12,2025-11,2026-05,Unlimited
+EM00600,Jobs,JR06,SME,Retail,0.15,2025-11,,Pay-per-Post
+EM00601,Jobs,JR06,SME,Logistics,0.0,2025-11,2026-05,Pay-per-Post
+EM00602,Jobs,JR06,Mid-Market,Healthcare,0.06,2025-11,2026-05,Pay-per-Post
+EM00603,Jobs,JR06,SME,Healthcare,0.12,2025-11,2025-11,Pay-per-Post
+AG00514,Property,PR01,Mid,Business Bay,0.25,2025-12,,Standard
+AG00515,Property,PR01,Small,Jumeirah Village Circle,0.2,2025-12,,Standard
+AG00516,Property,PR01,Small,Jumeirah Village Circle,0.2,2025-12,,Basic
+AG00517,Property,PR02,Large,Downtown Dubai,0.25,2025-12,,Premium
+AG00518,Property,PR05,Small,Dubai Hills Estate,0.05,2025-12,2026-05,Basic
+AG00519,Property,PR07,Small,Dubai Hills Estate,0.15,2025-12,,Standard
+AG00520,Property,PR07,Small,Jumeirah Village Circle,0.15,2025-12,,Standard
+AG00521,Property,PR07,Small,Arabian Ranches,0.15,2025-12,,Standard
+AG00522,Property,PR07,Mid,Dubai Marina,0.15,2025-12,,Premium
+AG00523,Property,PR07,Small,Business Bay,0.15,2025-12,2026-03,Basic
+AG00524,Property,PR08,Mid,Arabian Ranches,0.15,2025-12,2025-12,Basic
+AG00525,Property,PR09,Mid,Jumeirah Village Circle,0.0,2025-12,,Premium
+AG00526,Property,PR10,Small,Jumeirah Village Circle,0.15,2025-12,,Basic
+AG00527,Property,PR10,Small,Palm Jumeirah,0.15,2025-12,,Standard
+AG00528,Property,PR11,Mid,Dubai Marina,0.05,2025-12,,Standard
+AG00529,Property,PR11,Small,Jumeirah Lake Towers,0.1,2025-12,,Basic
+EM00604,Jobs,JR01,SME,Technology,0.06,2025-12,2026-01,Pay-per-Post
+EM00605,Jobs,JR02,Mid-Market,Logistics,0.03,2025-12,,Pack-5
+EM00606,Jobs,JR02,SME,Retail,0.09,2025-12,,Pay-per-Post
+EM00607,Jobs,JR03,SME,Hospitality,0.09,2025-12,,Pay-per-Post
+EM00608,Jobs,JR03,Mid-Market,Construction,0.06,2025-12,,Pack-5
+EM00609,Jobs,JR04,SME,Retail,0.06,2025-12,,Pay-per-Post
+EM00610,Jobs,JR05,Mid-Market,Logistics,0.0,2025-12,,Unlimited
+EM00611,Jobs,JR06,SME,Technology,0.09,2025-12,,Pack-5
+AG00530,Property,PR02,Small,Jumeirah Village Circle,0.05,2026-01,,Standard
+AG00531,Property,PR03,Mid,Dubai Marina,0.2,2026-01,2026-07,Standard
+AG00532,Property,PR03,Mid,Deira,0.1,2026-01,,Premium
+AG00533,Property,PR03,Small,Jumeirah Lake Towers,0.05,2026-01,,Basic
+AG00534,Property,PR03,Small,Jumeirah Village Circle,0.0,2026-01,,Standard
+AG00535,Property,PR05,Mid,Downtown Dubai,0.25,2026-01,,Standard
+AG00536,Property,PR05,Small,Al Barsha,0.05,2026-01,,Basic
+AG00537,Property,PR06,Small,Business Bay,0.1,2026-01,,Basic
+AG00538,Property,PR06,Large,Dubai Hills Estate,0.25,2026-01,,Standard
+AG00539,Property,PR06,Small,Arabian Ranches,0.0,2026-01,,Standard
+AG00540,Property,PR07,Mid,Jumeirah Lake Towers,0.25,2026-01,,Standard
+AG00541,Property,PR07,Mid,Jumeirah Lake Towers,0.1,2026-01,,Standard
+AG00542,Property,PR07,Mid,Al Barsha,0.1,2026-01,,Standard
+AG00543,Property,PR10,Small,Jumeirah Lake Towers,0.25,2026-01,,Standard
+AG00544,Property,PR10,Mid,Business Bay,0.1,2026-01,,Standard
+AG00545,Property,PR11,Large,Palm Jumeirah,0.1,2026-01,,Standard
+AG00546,Property,PR11,Small,Al Barsha,0.05,2026-01,,Basic
+AG00547,Property,PR11,Small,Jumeirah Village Circle,0.25,2026-01,,Standard
+EM00612,Jobs,JR01,Mid-Market,Retail,0.09,2026-01,,Unlimited
+EM00613,Jobs,JR02,SME,Healthcare,0.09,2026-01,2026-08,Pay-per-Post
+EM00614,Jobs,JR02,SME,Finance,0.03,2026-01,,Pay-per-Post
+EM00615,Jobs,JR02,Mid-Market,Logistics,0.06,2026-01,,Pack-5
+EM00616,Jobs,JR03,SME,Retail,0.09,2026-01,2026-02,Pay-per-Post
+EM00617,Jobs,JR04,SME,Finance,0.12,2026-01,,Pay-per-Post
+EM00618,Jobs,JR04,SME,Logistics,0.06,2026-01,,Pay-per-Post
+EM00619,Jobs,JR04,Mid-Market,Healthcare,0.12,2026-01,,Unlimited
+EM00620,Jobs,JR05,SME,Logistics,0.12,2026-01,2026-05,Pay-per-Post
+EM00621,Jobs,JR05,SME,Retail,0.06,2026-01,,Pay-per-Post
+EM00622,Jobs,JR05,SME,Real Estate,0.09,2026-01,2026-02,Pay-per-Post
+EM00623,Jobs,JR05,SME,Technology,0.06,2026-01,,Pack-5
+EM00624,Jobs,JR05,SME,Construction,0.15,2026-01,2026-06,Pack-5
+EM00625,Jobs,JR05,Mid-Market,Healthcare,0.03,2026-01,,Pack-5
+EM00626,Jobs,JR06,Mid-Market,Retail,0.06,2026-01,2026-02,Pack-5
+EM00627,Jobs,JR06,SME,Logistics,0.06,2026-01,,Pay-per-Post
+AG00548,Property,PR01,Mid,Business Bay,0.1,2026-02,,Standard
+AG00549,Property,PR01,Small,Business Bay,0.05,2026-02,,Basic
+AG00550,Property,PR01,Mid,Jumeirah Lake Towers,0.15,2026-02,,Basic
+AG00551,Property,PR02,Small,Downtown Dubai,0.2,2026-02,,Standard
+AG00552,Property,PR02,Large,Dubai Hills Estate,0.1,2026-02,,Premium
+AG00553,Property,PR02,Small,Dubai Marina,0.15,2026-02,,Basic
+AG00554,Property,PR05,Mid,Al Barsha,0.2,2026-02,,Standard
+AG00555,Property,PR05,Mid,Dubai Marina,0.15,2026-02,2026-07,Standard
+AG00556,Property,PR05,Small,Jumeirah Village Circle,0.25,2026-02,,Basic
+AG00557,Property,PR06,Small,Deira,0.2,2026-02,,Standard
+AG00558,Property,PR07,Mid,Jumeirah Lake Towers,0.25,2026-02,,Standard
+AG00559,Property,PR07,Small,Dubai Marina,0.1,2026-02,2026-02,Standard
+AG00560,Property,PR07,Small,Dubai Hills Estate,0.25,2026-02,,Standard
+AG00561,Property,PR08,Mid,Deira,0.1,2026-02,,Standard
+AG00562,Property,PR08,Mid,Palm Jumeirah,0.15,2026-02,,Standard
+AG00563,Property,PR08,Mid,Dubai Hills Estate,0.2,2026-02,,Premium
+AG00564,Property,PR10,Small,Downtown Dubai,0.2,2026-02,,Standard
+AG00565,Property,PR11,Large,Jumeirah Village Circle,0.05,2026-02,,Premium
+AG00566,Property,PR11,Small,Downtown Dubai,0.15,2026-02,,Basic
+AG00567,Property,PR11,Mid,Palm Jumeirah,0.25,2026-02,,Standard
+AG00568,Property,PR12,Small,Jumeirah Village Circle,0.05,2026-02,2026-03,Basic
+EM00628,Jobs,JR01,Mid-Market,Healthcare,0.12,2026-02,,Pack-5
+EM00629,Jobs,JR02,SME,Finance,0.09,2026-02,,Pay-per-Post
+EM00630,Jobs,JR02,Mid-Market,Healthcare,0.03,2026-02,,Pack-5
+EM00631,Jobs,JR02,SME,Finance,0.09,2026-02,,Pay-per-Post
+EM00632,Jobs,JR02,SME,Finance,0.12,2026-02,,Pack-5
+EM00633,Jobs,JR02,Mid-Market,Healthcare,0.12,2026-02,,Pack-5
+EM00634,Jobs,JR02,Mid-Market,Healthcare,0.06,2026-02,,Pack-5
+EM00635,Jobs,JR02,Mid-Market,Finance,0.15,2026-02,,Unlimited
+EM00636,Jobs,JR04,SME,Healthcare,0.09,2026-02,,Pay-per-Post
+EM00637,Jobs,JR04,SME,Retail,0.06,2026-02,,Pack-5
+EM00638,Jobs,JR04,SME,Retail,0.09,2026-02,2026-03,Pay-per-Post
+EM00639,Jobs,JR05,SME,Construction,0.12,2026-02,,Pack-5
+EM00640,Jobs,JR06,Mid-Market,Technology,0.06,2026-02,2026-09,Pack-5
+EM00641,Jobs,JR06,SME,Finance,0.09,2026-02,2026-04,Pay-per-Post
+AG00569,Property,PR01,Small,Business Bay,0.25,2026-03,,Standard
+AG00570,Property,PR03,Small,Palm Jumeirah,0.15,2026-03,,Basic
+AG00571,Property,PR03,Mid,Al Barsha,0.05,2026-03,,Standard
+AG00572,Property,PR03,Mid,Dubai Hills Estate,0.0,2026-03,,Standard
+AG00573,Property,PR05,Mid,Palm Jumeirah,0.1,2026-03,,Standard
+AG00574,Property,PR06,Small,Downtown Dubai,0.0,2026-03,,Standard
+AG00575,Property,PR06,Mid,Dubai Hills Estate,0.1,2026-03,,Premium
+AG00576,Property,PR07,Large,Palm Jumeirah,0.0,2026-03,,Premium
+AG00577,Property,PR07,Small,Palm Jumeirah,0.05,2026-03,,Standard
+AG00578,Property,PR07,Mid,Dubai Hills Estate,0.1,2026-03,,Premium
+AG00579,Property,PR08,Large,Arabian Ranches,0.1,2026-03,,Premium
+AG00580,Property,PR09,Small,Al Barsha,0.05,2026-03,,Standard
+AG00581,Property,PR10,Small,Jumeirah Lake Towers,0.05,2026-03,,Basic
+AG00582,Property,PR11,Small,Business Bay,0.1,2026-03,,Standard
+AG00583,Property,PR11,Small,Palm Jumeirah,0.15,2026-03,2026-03,Standard
+EM00642,Jobs,JR01,SME,Hospitality,0.09,2026-03,,Pay-per-Post
+EM00643,Jobs,JR02,SME,Technology,0.06,2026-03,,Pack-5
+EM00644,Jobs,JR02,SME,Construction,0.15,2026-03,,Pack-5
+EM00645,Jobs,JR02,Mid-Market,Real Estate,0.15,2026-03,,Unlimited
+EM00646,Jobs,JR02,SME,Logistics,0.09,2026-03,,Pay-per-Post
+EM00647,Jobs,JR04,SME,Logistics,0.06,2026-03,,Pay-per-Post
+EM00648,Jobs,JR05,Mid-Market,Logistics,0.0,2026-03,,Unlimited
+EM00649,Jobs,JR05,Mid-Market,Retail,0.0,2026-03,,Pack-5
+EM00650,Jobs,JR05,SME,Retail,0.06,2026-03,,Pay-per-Post
+EM00651,Jobs,JR05,SME,Healthcare,0.03,2026-03,,Pay-per-Post
+AG00584,Property,PR01,Mid,Jumeirah Lake Towers,0.05,2026-04,,Premium
+AG00585,Property,PR01,Small,Arabian Ranches,0.1,2026-04,,Standard
+AG00586,Property,PR02,Large,Dubai Marina,0.1,2026-04,,Standard
+AG00587,Property,PR02,Small,Al Barsha,0.1,2026-04,,Basic
+AG00588,Property,PR03,Mid,Arabian Ranches,0.0,2026-04,,Standard
+AG00589,Property,PR03,Small,Dubai Marina,0.15,2026-04,,Basic
+AG00590,Property,PR05,Small,Arabian Ranches,0.0,2026-04,2026-05,Basic
+AG00591,Property,PR06,Mid,Al Barsha,0.15,2026-04,2026-06,Standard
+AG00592,Property,PR06,Mid,Business Bay,0.05,2026-04,,Standard
+AG00593,Property,PR06,Small,Dubai Hills Estate,0.15,2026-04,,Standard
+AG00594,Property,PR07,Large,Jumeirah Village Circle,0.05,2026-04,,Premium
+AG00595,Property,PR07,Mid,Arabian Ranches,0.05,2026-04,,Basic
+AG00596,Property,PR07,Small,Al Barsha,0.25,2026-04,,Basic
+AG00597,Property,PR07,Small,Jumeirah Lake Towers,0.15,2026-04,,Basic
+AG00598,Property,PR08,Small,Jumeirah Lake Towers,0.1,2026-04,,Basic
+AG00599,Property,PR09,Mid,Jumeirah Lake Towers,0.2,2026-04,,Basic
+AG00600,Property,PR09,Small,Jumeirah Village Circle,0.25,2026-04,2026-05,Basic
+AG00601,Property,PR10,Mid,Palm Jumeirah,0.25,2026-04,,Basic
+AG00602,Property,PR11,Small,Al Barsha,0.1,2026-04,,Standard
+AG00603,Property,PR11,Small,Dubai Marina,0.1,2026-04,,Basic
+AG00604,Property,PR12,Small,Al Barsha,0.1,2026-04,,Basic
+EM00652,Jobs,JR02,Mid-Market,Technology,0.06,2026-04,,Unlimited
+EM00653,Jobs,JR02,Mid-Market,Construction,0.15,2026-04,,Pack-5
+EM00654,Jobs,JR02,Mid-Market,Real Estate,0.09,2026-04,,Pack-5
+EM00655,Jobs,JR02,Mid-Market,Hospitality,0.12,2026-04,,Pay-per-Post
+EM00656,Jobs,JR02,SME,Hospitality,0.15,2026-04,,Pay-per-Post
+EM00657,Jobs,JR03,SME,Real Estate,0.15,2026-04,2026-09,Pay-per-Post
+EM00658,Jobs,JR04,Enterprise,Retail,0.09,2026-04,,Unlimited
+EM00659,Jobs,JR04,SME,Healthcare,0.0,2026-04,,Pay-per-Post
+EM00660,Jobs,JR05,SME,Real Estate,0.03,2026-04,,Pack-5
+EM00661,Jobs,JR05,SME,Retail,0.15,2026-04,,Pack-5
+EM00662,Jobs,JR06,SME,Retail,0.12,2026-04,,Pack-5
+EM00663,Jobs,JR06,Mid-Market,Healthcare,0.09,2026-04,,Pack-5
+AG00605,Property,PR01,Small,Al Barsha,0.05,2026-05,,Basic
+AG00606,Property,PR02,Mid,Al Barsha,0.15,2026-05,,Basic
+AG00607,Property,PR02,Small,Palm Jumeirah,0.15,2026-05,,Basic
+AG00608,Property,PR04,Mid,Dubai Hills Estate,0.1,2026-05,,Standard
+AG00609,Property,PR05,Mid,Al Barsha,0.05,2026-05,,Basic
+AG00610,Property,PR05,Small,Dubai Marina,0.0,2026-05,,Standard
+AG00611,Property,PR07,Small,Dubai Marina,0.15,2026-05,,Basic
+AG00612,Property,PR07,Small,Business Bay,0.0,2026-05,,Standard
+AG00613,Property,PR07,Mid,Dubai Marina,0.2,2026-05,,Basic
+AG00614,Property,PR08,Small,Arabian Ranches,0.2,2026-05,,Standard
+AG00615,Property,PR08,Large,Jumeirah Village Circle,0.1,2026-05,,Premium
+AG00616,Property,PR10,Mid,Deira,0.2,2026-05,2026-07,Basic
+AG00617,Property,PR10,Small,Deira,0.15,2026-05,,Basic
+AG00618,Property,PR11,Small,Palm Jumeirah,0.1,2026-05,,Basic
+AG00619,Property,PR11,Mid,Palm Jumeirah,0.1,2026-05,,Standard
+EM00664,Jobs,JR01,SME,Technology,0.0,2026-05,,Pack-5
+EM00665,Jobs,JR02,SME,Hospitality,0.12,2026-05,,Pack-5
+EM00666,Jobs,JR02,SME,Retail,0.06,2026-05,,Pay-per-Post
+EM00667,Jobs,JR02,Enterprise,Hospitality,0.09,2026-05,,Unlimited
+EM00668,Jobs,JR02,SME,Finance,0.03,2026-05,,Pack-5
+EM00669,Jobs,JR03,SME,Construction,0.12,2026-05,,Pay-per-Post
+EM00670,Jobs,JR04,SME,Finance,0.09,2026-05,,Pay-per-Post
+EM00671,Jobs,JR04,Mid-Market,Technology,0.09,2026-05,,Pack-5
+EM00672,Jobs,JR04,Mid-Market,Real Estate,0.12,2026-05,,Pack-5
+EM00673,Jobs,JR04,Mid-Market,Real Estate,0.06,2026-05,,Unlimited
+EM00674,Jobs,JR04,Mid-Market,Construction,0.15,2026-05,,Pack-5
+EM00675,Jobs,JR04,SME,Healthcare,0.06,2026-05,,Pay-per-Post
+EM00676,Jobs,JR05,SME,Healthcare,0.12,2026-05,,Pack-5
+EM00677,Jobs,JR05,SME,Hospitality,0.09,2026-05,,Pay-per-Post
+EM00678,Jobs,JR05,SME,Real Estate,0.03,2026-05,,Pay-per-Post
+EM00679,Jobs,JR05,SME,Technology,0.03,2026-05,,Pay-per-Post
+EM00680,Jobs,JR05,SME,Real Estate,0.15,2026-05,,Pack-5
+EM00681,Jobs,JR05,Mid-Market,Real Estate,0.15,2026-05,2026-06,Pay-per-Post
+EM00682,Jobs,JR06,Mid-Market,Healthcare,0.12,2026-05,,Pack-5
+EM00683,Jobs,JR06,Mid-Market,Construction,0.03,2026-05,,Pay-per-Post
+EM00684,Jobs,JR06,Mid-Market,Retail,0.12,2026-05,,Pack-5
+EM00685,Jobs,JR06,SME,Healthcare,0.06,2026-05,,Pay-per-Post
+EM00686,Jobs,JR06,Mid-Market,Technology,0.12,2026-05,,Pay-per-Post
+EM00687,Jobs,JR06,Mid-Market,Construction,0.15,2026-05,,Unlimited
+AG00620,Property,PR02,Large,Jumeirah Village Circle,0.1,2026-06,,Standard
+AG00621,Property,PR03,Large,Deira,0.0,2026-06,,Standard
+AG00622,Property,PR04,Mid,Downtown Dubai,0.25,2026-06,,Standard
+AG00623,Property,PR04,Small,Jumeirah Village Circle,0.1,2026-06,,Basic
+AG00624,Property,PR06,Mid,Business Bay,0.05,2026-06,2026-07,Standard
+AG00625,Property,PR08,Mid,Al Barsha,0.1,2026-06,,Premium
+AG00626,Property,PR11,Small,Jumeirah Lake Towers,0.2,2026-06,,Basic
+EM00688,Jobs,JR02,SME,Real Estate,0.03,2026-06,,Pay-per-Post
+EM00689,Jobs,JR03,Mid-Market,Healthcare,0.06,2026-06,,Unlimited
+EM00690,Jobs,JR04,Mid-Market,Technology,0.03,2026-06,2026-06,Pack-5
+EM00691,Jobs,JR04,Mid-Market,Construction,0.12,2026-06,2026-08,Pack-5
+EM00692,Jobs,JR04,SME,Healthcare,0.15,2026-06,,Pack-5
+EM00693,Jobs,JR05,Mid-Market,Healthcare,0.09,2026-06,,Unlimited
+EM00694,Jobs,JR05,SME,Retail,0.15,2026-06,,Pay-per-Post
+AG00627,Property,PR01,Small,Jumeirah Lake Towers,0.05,2026-07,,Basic
+AG00628,Property,PR02,Small,Deira,0.25,2026-07,2026-07,Basic
+AG00629,Property,PR02,Mid,Downtown Dubai,0.15,2026-07,2026-09,Standard
+AG00630,Property,PR03,Small,Business Bay,0.15,2026-07,,Basic
+AG00631,Property,PR04,Small,Al Barsha,0.25,2026-07,,Basic
+AG00632,Property,PR07,Small,Dubai Hills Estate,0.0,2026-07,,Basic
+AG00633,Property,PR08,Small,Jumeirah Lake Towers,0.2,2026-07,,Standard
+AG00634,Property,PR09,Mid,Business Bay,0.05,2026-07,,Standard
+AG00635,Property,PR10,Small,Dubai Hills Estate,0.2,2026-07,2026-07,Standard
+AG00636,Property,PR10,Mid,Downtown Dubai,0.25,2026-07,,Premium
+AG00637,Property,PR11,Small,Jumeirah Village Circle,0.2,2026-07,,Basic
+EM00695,Jobs,JR01,SME,Hospitality,0.0,2026-07,,Pay-per-Post
+EM00696,Jobs,JR01,SME,Healthcare,0.09,2026-07,,Pack-5
+EM00697,Jobs,JR02,SME,Retail,0.03,2026-07,,Pay-per-Post
+EM00698,Jobs,JR03,SME,Construction,0.06,2026-07,,Pack-5
+EM00699,Jobs,JR04,Enterprise,Logistics,0.06,2026-07,,Unlimited
+EM00700,Jobs,JR04,SME,Retail,0.03,2026-07,2026-08,Pay-per-Post
+EM00701,Jobs,JR04,SME,Finance,0.03,2026-07,,Pay-per-Post
+EM00702,Jobs,JR05,SME,Construction,0.06,2026-07,,Pack-5
+EM00703,Jobs,JR05,SME,Technology,0.06,2026-07,,Pay-per-Post
+EM00704,Jobs,JR05,Mid-Market,Healthcare,0.03,2026-07,,Pay-per-Post
+AG00638,Property,PR01,Small,Downtown Dubai,0.05,2026-08,,Basic
+AG00639,Property,PR01,Small,Al Barsha,0.0,2026-08,,Basic
+AG00640,Property,PR01,Small,Deira,0.0,2026-08,,Basic
+AG00641,Property,PR02,Small,Dubai Hills Estate,0.1,2026-08,,Standard
+AG00642,Property,PR02,Small,Arabian Ranches,0.1,2026-08,,Basic
+AG00643,Property,PR03,Small,Deira,0.0,2026-08,,Standard
+AG00644,Property,PR05,Small,Jumeirah Lake Towers,0.1,2026-08,2026-08,Basic
+AG00645,Property,PR05,Small,Jumeirah Lake Towers,0.15,2026-08,2026-09,Standard
+AG00646,Property,PR05,Small,Palm Jumeirah,0.1,2026-08,2026-08,Basic
+AG00647,Property,PR05,Small,Deira,0.1,2026-08,,Basic
+AG00648,Property,PR07,Mid,Palm Jumeirah,0.15,2026-08,,Premium
+AG00649,Property,PR07,Mid,Dubai Hills Estate,0.2,2026-08,,Basic
+AG00650,Property,PR07,Small,Jumeirah Village Circle,0.1,2026-08,,Basic
+AG00651,Property,PR07,Mid,Al Barsha,0.1,2026-08,,Standard
+AG00652,Property,PR09,Small,Al Barsha,0.1,2026-08,,Basic
+AG00653,Property,PR10,Small,Dubai Hills Estate,0.1,2026-08,,Standard
+AG00654,Property,PR10,Small,Arabian Ranches,0.15,2026-08,,Basic
+AG00655,Property,PR11,Small,Business Bay,0.15,2026-08,,Basic
+EM00705,Jobs,JR01,SME,Finance,0.15,2026-08,,Pack-5
+EM00706,Jobs,JR02,SME,Construction,0.06,2026-08,2026-08,Pay-per-Post
+EM00707,Jobs,JR02,SME,Logistics,0.12,2026-08,,Pack-5
+EM00708,Jobs,JR02,Mid-Market,Healthcare,0.03,2026-08,,Pay-per-Post
+EM00709,Jobs,JR03,SME,Logistics,0.12,2026-08,,Pay-per-Post
+EM00710,Jobs,JR03,SME,Logistics,0.09,2026-08,,Pay-per-Post
+EM00711,Jobs,JR04,Mid-Market,Construction,0.12,2026-08,,Pack-5
+EM00712,Jobs,JR04,SME,Real Estate,0.09,2026-08,2026-08,Pay-per-Post
+EM00713,Jobs,JR04,SME,Finance,0.03,2026-08,,Pack-5
+EM00714,Jobs,JR05,Mid-Market,Logistics,0.12,2026-08,,Pack-5
+EM00715,Jobs,JR05,Enterprise,Technology,0.12,2026-08,,Unlimited
+EM00716,Jobs,JR05,Mid-Market,Healthcare,0.03,2026-08,,Pay-per-Post
+EM00717,Jobs,JR05,SME,Technology,0.06,2026-08,,Pay-per-Post
+EM00718,Jobs,JR06,SME,Technology,0.12,2026-08,2026-08,Pay-per-Post
+AG00656,Property,PR01,Small,Jumeirah Village Circle,0.2,2026-09,,Basic
+AG00657,Property,PR03,Small,Dubai Hills Estate,0.15,2026-09,,Standard
+AG00658,Property,PR04,Mid,Deira,0.1,2026-09,,Standard
+AG00659,Property,PR05,Mid,Downtown Dubai,0.2,2026-09,,Premium
+AG00660,Property,PR05,Large,Jumeirah Village Circle,0.1,2026-09,,Premium
+AG00661,Property,PR06,Mid,Dubai Marina,0.0,2026-09,,Basic
+AG00662,Property,PR07,Small,Business Bay,0.15,2026-09,,Basic
+AG00663,Property,PR07,Small,Dubai Marina,0.2,2026-09,,Basic
+AG00664,Property,PR08,Mid,Dubai Marina,0.2,2026-09,,Basic
+AG00665,Property,PR08,Small,Jumeirah Lake Towers,0.25,2026-09,,Standard
+AG00666,Property,PR09,Large,Jumeirah Lake Towers,0.1,2026-09,,Premium
+AG00667,Property,PR09,Mid,Al Barsha,0.0,2026-09,,Standard
+AG00668,Property,PR09,Small,Deira,0.25,2026-09,,Standard
+AG00669,Property,PR10,Mid,Business Bay,0.0,2026-09,2026-09,Standard
+AG00670,Property,PR10,Large,Palm Jumeirah,0.15,2026-09,,Premium
+AG00671,Property,PR10,Mid,Dubai Marina,0.25,2026-09,,Standard
+AG00672,Property,PR10,Small,Jumeirah Lake Towers,0.25,2026-09,,Basic
+AG00673,Property,PR10,Mid,Deira,0.15,2026-09,,Standard
+AG00674,Property,PR11,Small,Jumeirah Village Circle,0.1,2026-09,,Basic
+AG00675,Property,PR11,Small,Downtown Dubai,0.15,2026-09,,Basic
+AG00676,Property,PR12,Mid,Al Barsha,0.2,2026-09,,Basic
+AG00677,Property,PR12,Mid,Dubai Hills Estate,0.05,2026-09,,Standard
+EM00719,Jobs,JR01,Mid-Market,Real Estate,0.09,2026-09,,Pay-per-Post
+EM00720,Jobs,JR01,SME,Finance,0.0,2026-09,,Pack-5
+EM00721,Jobs,JR02,SME,Real Estate,0.15,2026-09,,Pack-5
+EM00722,Jobs,JR02,SME,Retail,0.06,2026-09,,Pay-per-Post
+EM00723,Jobs,JR02,Enterprise,Construction,0.06,2026-09,,Pack-5
+EM00724,Jobs,JR02,SME,Healthcare,0.03,2026-09,,Pay-per-Post
+EM00725,Jobs,JR02,SME,Finance,0.12,2026-09,,Pay-per-Post
+EM00726,Jobs,JR03,Enterprise,Logistics,0.03,2026-09,,Unlimited
+EM00727,Jobs,JR03,SME,Finance,0.03,2026-09,,Pay-per-Post
+EM00728,Jobs,JR03,SME,Retail,0.06,2026-09,,Pay-per-Post
+EM00729,Jobs,JR04,SME,Finance,0.06,2026-09,,Pay-per-Post
+EM00730,Jobs,JR04,SME,Healthcare,0.06,2026-09,,Pay-per-Post
+EM00731,Jobs,JR05,Mid-Market,Retail,0.03,2026-09,,Unlimited
+EM00732,Jobs,JR05,SME,Logistics,0.09,2026-09,,Pay-per-Post
+EM00733,Jobs,JR05,Enterprise,Retail,0.03,2026-09,,Unlimited
+EM00734,Jobs,JR06,SME,Technology,0.12,2026-09,,Pay-per-Post
